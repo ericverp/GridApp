@@ -1,4 +1,9 @@
+namespace :products do 
 
+	desc "Load Products"
+	task :load => :environment do 
+	  	
+		require json
 	  	puts 'Start Ingest of EventBrite data'
 	  	ingest_events = File.new("C:\\Sites\\freebeer\\freebeerbackend\\lib\\tasks\\results.json",'r')
 	  	ingest_locations = File.new("C:\\Sites\\freebeer\\freebeerbackend\\lib\\tasks\\events.json",'r')
@@ -33,3 +38,6 @@
 	  mapped_products.each do|product|
 	  		Product.create(product)
 	  end
+
+	end
+end 
