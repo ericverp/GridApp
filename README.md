@@ -12,7 +12,7 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
-
+	You need a working installation of PostGres
 	`bundle install`
 	`rake db:migrate`
 	`rake db:seed`
