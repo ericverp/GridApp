@@ -2,14 +2,11 @@ namespace :products do
 
 	desc "Load Products"
 	task :load => :environment do
-	  	
-	  	puts 'requiring json'
-			require 'json'
+
+		require 'json'
 	  	puts 'Start Ingest of Products data'
-	  	#ingest_events = File.new("C:\\Sites\\freebeer\\freebeerbackend\\lib\\tasks\\results.json",'r')
-	  	#ingest_locations = File.new("C:\\Sites\\freebeer\\freebeerbackend\\lib\\tasks\\events.json",'r')
-	  	#ingest_events = File.new("../../data/products.json",'r')
-	  	ingest_locations = File.new("/Users/valerio/Desktop/GridApp/data/products.json",'r')
+
+	  	ingest_locations = File.new(File.join(Dir.getwd,'lib','tasks','products.json'),'r')
 
 	  	products =  JSON.parse(ingest_locations.read())
 	  	puts 'Mapping Events'
@@ -42,13 +39,15 @@ namespace :products do
 	  		#return product
 	  	end
 
-		puts "statement here"
+		puts "Products Mapped"
 
 
 
 	  mapped_products.each do|product|
 	  		LightingProduct.create!(product)
 	  end
+
+	  puts "Success, products created!!"
 
 	end
 end
