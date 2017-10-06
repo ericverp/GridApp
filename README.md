@@ -13,6 +13,12 @@ Things you may want to cover:
 
 * Database creation
 
+	`bundle install`
+	`rake db:migrate`
+	`rake db:seed`
+	`rails s`
+
+
 * Database initialization
 
 * How to run the test suite
