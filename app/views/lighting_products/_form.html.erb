@@ -1,0 +1,27 @@
+<%= form_with(model: lighting_product, local: true) do |form| %>
+  <% if lighting_product.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(lighting_product.errors.count, "error") %> prohibited this lighting_product from being saved:</h2>
+
+      <ul>
+      <% lighting_product.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :index %>
+    <%= form.text_field :index, id: :lighting_product_index %>
+  </div>
+
+  <div class="field">
+    <%= form.label :show %>
+    <%= form.text_field :show, id: :lighting_product_show %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

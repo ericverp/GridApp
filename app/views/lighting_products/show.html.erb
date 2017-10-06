@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @lighting_product.name %>
+</p>
+
+<p>
+  <strong>Num of 12v sockets:</strong>
+  <%= @lighting_product.num_12v %>
+</p>
+
+<%= link_to 'Edit', edit_lighting_product_path(@lighting_product) %> |
+<%= link_to 'Back', lighting_products_path %>
