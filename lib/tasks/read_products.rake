@@ -1,7 +1,7 @@
-#namespace :products do
+namespace :products do
 
-	#desc "Load Products"
-	#task :load => :environment do
+	desc "Load Products"
+	task :load => :environment do
 	  	
 	  	puts 'requiring json'
 			require 'json'
@@ -13,7 +13,9 @@
 
 	  	products =  JSON.parse(ingest_locations.read())
 	  	puts 'Mapping Events'
-	  	mapped_products = products.map do|item| 
+			manufacturer = Manufacturer.create!(name: "Lighting Products")
+
+	  	mapped_products = products.map do|item|
 	  		product = {
 	  			:name => item['Product'],
 	  			:mobile_charging => item['Moblie charging'],
@@ -28,13 +30,12 @@
 				  :product_class => item['Product Class'],
 				  :lamp_type => item['Lamp Type'],
 				  :max_output => item['PV maximum power point (Watts)'],
-				  :manufacturer_id => item['Manufacturer'],
+					#:manufacturer => item['Manufacturer'],
+					:manufacturer => manufacturer,
 				  :product_url => item['Link to product page on manufacturer website'],
    				:product_description => item['Description of light points'],
 				  #:countries_id => item[''],
 				  #:distributors_id => item[''],
-				  #:created_at => item[''],
-				  #:updated_at => item[''],
 				  :has_stand => item['Stand']
 
 	  			}
@@ -45,9 +46,9 @@
 
 
 
-	  #mapped_products.each do|product|
-	  #		Product.create(product)
-	  #end
+	  mapped_products.each do|product|
+	  		LightingProduct.create!(product)
+	  end
 
-#	end
-#end
+	end
+end

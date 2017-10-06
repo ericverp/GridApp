@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171006181010) do
+ActiveRecord::Schema.define(version: 20171006184214) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -80,12 +80,11 @@ ActiveRecord::Schema.define(version: 20171006181010) do
     t.integer "num_5v"
     t.float "daily_output"
     t.float "runtime"
-    t.float "chargetime"
+    t.float "battery_capacity"
     t.integer "system_lumens"
     t.integer "product_class"
     t.integer "lamp_type"
     t.integer "max_output"
-    t.integer "lumens_per_watt"
     t.string "product_url"
     t.text "product_description"
     t.datetime "created_at", null: false
