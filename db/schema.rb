@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171006124804) do
+ActiveRecord::Schema.define(version: 20171006142053) do
 
   create_table "active_admin_comments", force: :cascade do |t|
     t.string "namespace"
@@ -43,6 +43,21 @@ ActiveRecord::Schema.define(version: 20171006124804) do
     t.index ["reset_password_token"], name: "index_admin_users_on_reset_password_token", unique: true
   end
 
+  create_table "countries", force: :cascade do |t|
+    t.string "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "distributors", force: :cascade do |t|
+    t.string "name"
+    t.string "email"
+    t.text "address"
+    t.bigint "telephone"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
   create_table "lighting_products", force: :cascade do |t|
     t.string "name"
     t.boolean "mobile_charging"
@@ -69,6 +84,12 @@ ActiveRecord::Schema.define(version: 20171006124804) do
     t.index ["countries_id"], name: "index_lighting_products_on_countries_id"
     t.index ["distributors_id"], name: "index_lighting_products_on_distributors_id"
     t.index ["manufacturer_id"], name: "index_lighting_products_on_manufacturer_id"
+  end
+
+  create_table "manufacturers", force: :cascade do |t|
+    t.string "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
 end
