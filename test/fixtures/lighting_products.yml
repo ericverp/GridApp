@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  mobile_charging: false
+  price: 9.99
+  num_of_lights: 1
+  num_12v: 1
+  num_5v: 1
+  daily_output: 1.5
+  runtime: 1.5
+  chargetime: 1.5
+  system_lumens: 1
+  product_class: 1
+  lamp_type: 1
+  max_output: 1
+  lumens_per_watt: 1
+  manufacturer: one
+  product_url: MyString
+  product_description: MyText
+  countries: one
+  distributors: one
+
+two:
+  name: MyString
+  mobile_charging: false
+  price: 9.99
+  num_of_lights: 1
+  num_12v: 1
+  num_5v: 1
+  daily_output: 1.5
+  runtime: 1.5
+  chargetime: 1.5
+  system_lumens: 1
+  product_class: 1
+  lamp_type: 1
+  max_output: 1
+  lumens_per_watt: 1
+  manufacturer: two
+  product_url: MyString
+  product_description: MyText
+  countries: two
+  distributors: two
