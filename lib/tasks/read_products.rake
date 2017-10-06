@@ -1,5 +1,7 @@
 namespace :products do
 
+
+
 	desc "Load Products"
 	task :load => :environment do
 
