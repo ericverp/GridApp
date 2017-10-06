@@ -10,15 +10,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171006142053) do
+ActiveRecord::Schema.define(version: 20171006160744) do
+
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
 
   create_table "active_admin_comments", force: :cascade do |t|
     t.string "namespace"
     t.text "body"
     t.string "resource_type"
-    t.integer "resource_id"
+    t.bigint "resource_id"
     t.string "author_type"
-    t.integer "author_id"
+    t.bigint "author_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["author_type", "author_id"], name: "index_active_admin_comments_on_author_type_and_author_id"
@@ -73,17 +76,14 @@ ActiveRecord::Schema.define(version: 20171006142053) do
     t.integer "lamp_type"
     t.integer "max_output"
     t.integer "lumens_per_watt"
-    t.integer "manufacturer_id"
     t.string "product_url"
     t.text "product_description"
-    t.integer "countries_id"
-    t.integer "distributors_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.boolean "has_stand"
-    t.index ["countries_id"], name: "index_lighting_products_on_countries_id"
-    t.index ["distributors_id"], name: "index_lighting_products_on_distributors_id"
-    t.index ["manufacturer_id"], name: "index_lighting_products_on_manufacturer_id"
+    t.integer "country_id"
+    t.integer "distributor_id"
+    t.integer "manufacturer_id"
   end
 
   create_table "manufacturers", force: :cascade do |t|

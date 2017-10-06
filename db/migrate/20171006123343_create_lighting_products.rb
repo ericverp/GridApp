@@ -15,11 +15,8 @@ class CreateLightingProducts < ActiveRecord::Migration[5.1]
       t.integer :lamp_type
       t.integer :max_output
       t.integer :lumens_per_watt
-      t.references :manufacturer, foreign_key: true
       t.string :product_url
       t.text :product_description
-      t.references :countries, foreign_key: true
-      t.references :distributors, foreign_key: true
 
       t.timestamps
     end
