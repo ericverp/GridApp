@@ -1,5 +1,5 @@
 class LightingProduct < ApplicationRecord
+  has_and_belongs_to_many :countries
+  has_and_belongs_to_many :distributors
   belongs_to :manufacturer
-  has_many :countries
-  has_many :distributors
 end
