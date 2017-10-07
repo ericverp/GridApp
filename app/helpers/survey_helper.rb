@@ -47,7 +47,7 @@ module SurveyHelper
 				when "yes"
 					these_items = these_items.select{|item| item['num_5v'] >= 1}
 				when "no"
-					these_items = these_items.select{|item| item['num_5v'].eql? 0}
+					these_items = these_items.select{|item| item['num_5v'] >= 0}
 				else
 					puts "cannot parse answer #{mobile_answer}"
 			end
