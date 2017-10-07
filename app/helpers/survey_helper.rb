@@ -26,13 +26,13 @@ module SurveyHelper
 		if(!lights_answer.nil?)
 			case lights_answer  
 				when "a"
-					these_items = these_items.select{|item| item['num_of_lights'].eql? 1}
+					these_items = these_items.select{|item| item['num_of_lights'] >= 1}
 				when "b"
-					these_items = these_items.select{|item| item['num_of_lights'].eql? 2}
+					these_items = these_items.select{|item| item['num_of_lights'] >= 2}
 				when "c"
-					these_items = these_items.select{|item| item['num_of_lights'].eql? 3}
+					these_items = these_items.select{|item| item['num_of_lights'] >= 3}
 				when "d"
-					these_items = these_items.select{|item| item['num_of_lights'] > 3}
+					these_items = these_items.select{|item| item['num_of_lights'] >= 4}
 				else
 					puts "no match found for #{lights_answer}"
 			end
