@@ -1,6 +1,5 @@
 require "spec_helper"
 require 'rails_helper'
-require 'pry'
 
 describe "SurveyHelper" do
   describe "process_survey" do
