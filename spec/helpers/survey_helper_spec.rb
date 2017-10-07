@@ -106,5 +106,37 @@ describe "SurveyHelper" do
 
     	expect(result[0][:name]).to eql("second")
 	end		
+
+
+	it "filters on lighting duration for a" do
+		first_country = Country.create(name:"kenya")
+    	manufacturer = Manufacturer.create(name: "first")
+
+    	first_product = LightingProduct.create!(name: "first", countries:[first_country], manufacturer: manufacturer, runtime: 9)
+    	second_product = LightingProduct.create!(name: "second", countries:[first_country], manufacturer: manufacturer, runtime: 3  )
+
+    	survey_params = [{:Label => 'Lighting duration', :value => "a" }]
+
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+
+    	expect(result[0][:name]).to eql("second")
+
+	end
+
+	it "filters on lighting duration for a" do
+		first_country = Country.create(name:"kenya")
+    	manufacturer = Manufacturer.create(name: "first")
+
+    	first_product = LightingProduct.create!(name: "first", countries:[first_country], manufacturer: manufacturer, runtime: 9)
+    	second_product = LightingProduct.create!(name: "second", countries:[first_country], manufacturer: manufacturer, runtime: 3  )
+
+    	survey_params = [{:Label => 'Lighting duration', :value => "c" }]
+
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+
+    	expect(result[0]).to eql(first_product)
+
+	end
+	
   end
 end

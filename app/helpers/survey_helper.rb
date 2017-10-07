@@ -12,13 +12,11 @@ module SurveyHelper
 		country = get_survey_value(survey,"Country")
 
 		
-		these_items = these_items.select{|item| item.countries.filter_name(country).any?}
-
+		these_items = these_items.select{|item| item.countries.filter_name(country).any?} if !country.nil?
 		
 		# how many lights will you need
 
 		lights_answer = get_survey_value(survey,"Number of lights")
-
 		
 		if(!lights_answer.nil?)
 			case lights_answer  
@@ -56,13 +54,14 @@ module SurveyHelper
 
 		# 0 - 5, 6-8, 9-12, 12+
 		if(!lighting_duration.nil?)
+		
 			case lighting_duration
 				when "a"
 					these_items = these_items.select{|item| item[:runtime] <= 5}
 				when "b"
-					these_items = these_items.select{|item| item[:runtime].between?(6..8)}
+					these_items = these_items.select{|item| item[:runtime].between?(6,8)}
 				when "c"
-					these_items = these_items.select{|item| item[:runtime].between?(9..12)}
+					these_items = these_items.select{|item| item[:runtime].between?(9,12)}
 				when "d"
 					these_items = these_items.select{|item| item[:runtime] >  13}	
 				else
