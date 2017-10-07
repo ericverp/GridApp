@@ -5,6 +5,11 @@ class SurveyController < ApplicationController
 		puts "message received"
 		puts request.raw_post 
 		render :json => {:first => "thisvalue", :req => request.raw_post}
+
+
+		survey_products = process_survey(LightingProduct.all, params[:values])
+		 	
+
 	end
 
 
