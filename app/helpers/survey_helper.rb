@@ -18,7 +18,7 @@ module SurveyHelper
 		
 		these_items = these_items.select{|item| item.countries.filter_name(country).any?} if !country.nil?
 		
-
+		#binding.pry
 
 		# how many lights will you need
 
@@ -39,6 +39,7 @@ module SurveyHelper
 			end
 		end
 
+		#binding.pry
 		# mobile phone charging
 		mobile_answer = get_survey_value(survey,'mobile charging required')			
 
@@ -53,7 +54,7 @@ module SurveyHelper
 			end
 		end
 
-
+		#binding.pry
 		# how long will lights be used for
 
 		# Lighting duration
@@ -64,18 +65,19 @@ module SurveyHelper
 		
 			case lighting_duration
 				when "a"
-					these_items = these_items.select{|item| item['runtime'] <= 5}
+					these_items = these_items.select{|item| item['runtime'] <= 2}
 				when "b"
-					these_items = these_items.select{|item| item['runtime'].between?(6,8)}
+					these_items = these_items.select{|item| item['runtime'] >= 2.01}
 				when "c"
-					these_items = these_items.select{|item| item['runtime'].between?(9,12)}
+					these_items = these_items.select{|item| item['runtime'] >= 3.01}
 				when "d"
-					these_items = these_items.select{|item| item['runtime'] >  13}	
+					these_items = these_items.select{|item| item['runtime'] >= 4.01}	
 				else
 					puts "cannot parse answer #{lighting_duration}"
 			end
 		end
 
+		#binding.pry
 
 		num_mob_answer = get_survey_value(survey,"number of mobiles")
 		num_radio_answer = get_survey_value(survey,"radio")
@@ -86,11 +88,11 @@ module SurveyHelper
 		if(!num_mob_answer.nil? and mobile_answer.eql? "yes")
 			case num_mob_answer
 				when "a"
-					mobs =  1
+					mobs = 1
 				when "b"
 					mobs = 2
 				when "c"
-					mobs =  3
+					mobs = 3
 				when "d"
 					mobs = 5	
 				else
@@ -101,8 +103,13 @@ module SurveyHelper
 		tvs = if num_tv_answer.eql? "yes" then 1 else 0 end
 
 		reqd_cap = get_capacity(mobs, radios, tvs) 
-		
+		#binding.pry
+
 		these_items = these_items.select{|item| !item[:battery_capacity].nil?  and item[:battery_capacity]>= reqd_cap} if reqd_cap > 0		
+		
+		#binding.pry
+
+
 		return these_items
 	end
 
@@ -117,7 +124,7 @@ module SurveyHelper
 
 
 	def self.get_capacity(mobiles, radios, tvs)
-		# binding.pry
+		# #binding.pry
 		(mobiles * 2 ) + (radios * 1.5) + (tvs * 25)
 	end
 end

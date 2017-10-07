@@ -13,7 +13,8 @@ class SurveyController < ApplicationController
 
 		if(!@survey_products.nil?)
 			result = SurveyResult.create(respondent: respondent, lighting_products: @survey_products)
-			render :json => {:result_id => result.id} if !@survey_products.nil?
+			# render :json => {:result_id => result.id} if !@survey_products.nil?
+			render plain:  "#{result.id}" if !@survey_products.nil?
 		else
 			render :status => 400, :json => {:error => "Bad Request"}
 		end
