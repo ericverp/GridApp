@@ -3,17 +3,18 @@ class SurveyController < ApplicationController
 
 	def survey
 		#    this method calculates which product is the best given the survey
-		puts "message received"
-		puts request.raw_post 
-		# render :json => {:first => "thisvalue", :req => request.raw_post}
-
 		@survey_products = SurveyHelper.process_survey(LightingProduct.all, params[:values])
-
 		# create a new set of rows in the results table 
 
-		render :json => @survey_products if !@survey_products.nil?
+		if(!@survey_products.nil?)
 
-		render :json => {:Error => "No Survey"}
+			# create a survey result entry 
+
+			render :json => @survey_products if !@survey_products.nil?
+		else
+			render :status => 400, :json => {:error => "Bad Request"}
+		end
+
 
 	end
-
+end
