@@ -9,10 +9,11 @@ class SurveyController < ApplicationController
 
 		@survey_products = SurveyHelper.process_survey(LightingProduct.all, params[:values])
 
+		# create a new set of rows in the results table 
+
 		render :json => @survey_products if !@survey_products.nil?
 
 		render :json => {:Error => "No Survey"}
 
 	end
 
-end
