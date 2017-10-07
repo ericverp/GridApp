@@ -23,7 +23,7 @@
    "Run time per day of solar charging (hours)": "11",
    "Total light output (lumens)": "1300",
    "Total lighting service (lumen-hours  solar-day)": "14.300",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -172,7 +172,7 @@
    "Run time per day of solar charging (hours)": "15",
    "Total light output (lumens)": "880",
    "Total lighting service (lumen-hours  solar-day)": "13.200",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -321,7 +321,7 @@
    "Run time per day of solar charging (hours)": "31",
    "Total light output (lumens)": "420",
    "Total lighting service (lumen-hours  solar-day)": "13.020",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -470,7 +470,7 @@
    "Run time per day of solar charging (hours)": "15",
    "Total light output (lumens)": "790",
    "Total lighting service (lumen-hours  solar-day)": "11.850",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -619,7 +619,7 @@
    "Run time per day of solar charging (hours)": "9,1",
    "Total light output (lumens)": "910",
    "Total lighting service (lumen-hours  solar-day)": "8.281",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -768,7 +768,7 @@
    "Run time per day of solar charging (hours)": "7,5",
    "Total light output (lumens)": "1050",
    "Total lighting service (lumen-hours  solar-day)": "7.875",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -917,7 +917,7 @@
    "Run time per day of solar charging (hours)": "11",
    "Total light output (lumens)": "550",
    "Total lighting service (lumen-hours  solar-day)": "6.050",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -1066,7 +1066,7 @@
    "Run time per day of solar charging (hours)": "6",
    "Total light output (lumens)": "650",
    "Total lighting service (lumen-hours  solar-day)": "3.900",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -1215,7 +1215,7 @@
    "Run time per day of solar charging (hours)": "5,8",
    "Total light output (lumens)": "600",
    "Total lighting service (lumen-hours  solar-day)": "3.500",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -1364,7 +1364,7 @@
    "Run time per day of solar charging (hours)": "7,6",
    "Total light output (lumens)": "430",
    "Total lighting service (lumen-hours  solar-day)": "3.300",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -1513,7 +1513,7 @@
    "Run time per day of solar charging (hours)": "5,1",
    "Total light output (lumens)": "590",
    "Total lighting service (lumen-hours  solar-day)": "3.000",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -1662,7 +1662,7 @@
    "Run time per day of solar charging (hours)": "3,9",
    "Total light output (lumens)": "800",
    "Total lighting service (lumen-hours  solar-day)": "2.800",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -1811,7 +1811,7 @@
    "Run time per day of solar charging (hours)": "4,6",
    "Total light output (lumens)": "600",
    "Total lighting service (lumen-hours  solar-day)": "2.800",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -1960,7 +1960,7 @@
    "Run time per day of solar charging (hours)": "6,2",
    "Total light output (lumens)": "450",
    "Total lighting service (lumen-hours  solar-day)": "2.800",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -2109,7 +2109,7 @@
    "Run time per day of solar charging (hours)": "6",
    "Total light output (lumens)": "360",
    "Total lighting service (lumen-hours  solar-day)": "2.500",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -2258,7 +2258,7 @@
    "Run time per day of solar charging (hours)": "5,5",
    "Total light output (lumens)": "430",
    "Total lighting service (lumen-hours  solar-day)": "2.400",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -2407,7 +2407,7 @@
    "Run time per day of solar charging (hours)": "8",
    "Total light output (lumens)": "300",
    "Total lighting service (lumen-hours  solar-day)": "2.400",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -2556,7 +2556,7 @@
    "Run time per day of solar charging (hours)": "7,9",
    "Total light output (lumens)": "300",
    "Total lighting service (lumen-hours  solar-day)": "2.400",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -2705,7 +2705,7 @@
    "Run time per day of solar charging (hours)": "8",
    "Total light output (lumens)": "300",
    "Total lighting service (lumen-hours  solar-day)": "2.400",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -2854,7 +2854,7 @@
    "Run time per day of solar charging (hours)": "5,9",
    "Total light output (lumens)": "376",
    "Total lighting service (lumen-hours  solar-day)": "2.200",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -3003,7 +3003,7 @@
    "Run time per day of solar charging (hours)": "6,9",
    "Total light output (lumens)": "310",
    "Total lighting service (lumen-hours  solar-day)": "2.100",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -3152,7 +3152,7 @@
    "Run time per day of solar charging (hours)": "5,6",
    "Total light output (lumens)": "305",
    "Total lighting service (lumen-hours  solar-day)": "1.700",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -3301,7 +3301,7 @@
    "Run time per day of solar charging (hours)": "5,6",
    "Total light output (lumens)": "305",
    "Total lighting service (lumen-hours  solar-day)": "1.700",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -3450,7 +3450,7 @@
    "Run time per day of solar charging (hours)": "5,6",
    "Total light output (lumens)": "305",
    "Total lighting service (lumen-hours  solar-day)": "1.700",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -3599,7 +3599,7 @@
    "Run time per day of solar charging (hours)": "7,5",
    "Total light output (lumens)": "211",
    "Total lighting service (lumen-hours  solar-day)": "1.600",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -3748,7 +3748,7 @@
    "Run time per day of solar charging (hours)": "13",
    "Total light output (lumens)": "170",
    "Total lighting service (lumen-hours  solar-day)": "2.200",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -3897,7 +3897,7 @@
    "Run time per day of solar charging (hours)": "4,3",
    "Total light output (lumens)": "320",
    "Total lighting service (lumen-hours  solar-day)": "1.400",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -4046,7 +4046,7 @@
    "Run time per day of solar charging (hours)": "5,5",
    "Total light output (lumens)": "250",
    "Total lighting service (lumen-hours  solar-day)": "1.400",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -4195,7 +4195,7 @@
    "Run time per day of solar charging (hours)": "7,1",
    "Total light output (lumens)": "180",
    "Total lighting service (lumen-hours  solar-day)": "1.300",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -4344,7 +4344,7 @@
    "Run time per day of solar charging (hours)": "7,2",
    "Total light output (lumens)": "180",
    "Total lighting service (lumen-hours  solar-day)": "1.300",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -4493,7 +4493,7 @@
    "Run time per day of solar charging (hours)": "2,3",
    "Total light output (lumens)": "520",
    "Total lighting service (lumen-hours  solar-day)": "1.200",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -4642,7 +4642,7 @@
    "Run time per day of solar charging (hours)": "5,3",
    "Total light output (lumens)": "220",
    "Total lighting service (lumen-hours  solar-day)": "1.200",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -4791,7 +4791,7 @@
    "Run time per day of solar charging (hours)": "7,2",
    "Total light output (lumens)": "170",
    "Total lighting service (lumen-hours  solar-day)": "1.200",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -4940,7 +4940,7 @@
    "Run time per day of solar charging (hours)": "7,2",
    "Total light output (lumens)": "170",
    "Total lighting service (lumen-hours  solar-day)": "1.200",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -5089,7 +5089,7 @@
    "Run time per day of solar charging (hours)": "9,8",
    "Total light output (lumens)": "120",
    "Total lighting service (lumen-hours  solar-day)": "1.200",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -5238,7 +5238,7 @@
    "Run time per day of solar charging (hours)": "2,8",
    "Total light output (lumens)": "393",
    "Total lighting service (lumen-hours  solar-day)": "1.100",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -5387,7 +5387,7 @@
    "Run time per day of solar charging (hours)": "3,3",
    "Total light output (lumens)": "320",
    "Total lighting service (lumen-hours  solar-day)": "1.100",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -5536,7 +5536,7 @@
    "Run time per day of solar charging (hours)": "3,5",
    "Total light output (lumens)": "320",
    "Total lighting service (lumen-hours  solar-day)": "1.100",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -5685,7 +5685,7 @@
    "Run time per day of solar charging (hours)": "4,4",
    "Total light output (lumens)": "240",
    "Total lighting service (lumen-hours  solar-day)": "1.100",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -5834,7 +5834,7 @@
    "Run time per day of solar charging (hours)": "5,6",
    "Total light output (lumens)": "187",
    "Total lighting service (lumen-hours  solar-day)": "1.000",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -5983,7 +5983,7 @@
    "Run time per day of solar charging (hours)": "5,6",
    "Total light output (lumens)": "172",
    "Total lighting service (lumen-hours  solar-day)": "960",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -6132,7 +6132,7 @@
    "Run time per day of solar charging (hours)": "12,1",
    "Total light output (lumens)": "77",
    "Total lighting service (lumen-hours  solar-day)": "930",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -6281,7 +6281,7 @@
    "Run time per day of solar charging (hours)": "4,4",
    "Total light output (lumens)": "210",
    "Total lighting service (lumen-hours  solar-day)": "920",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -6430,7 +6430,7 @@
    "Run time per day of solar charging (hours)": "5,4",
    "Total light output (lumens)": "170",
    "Total lighting service (lumen-hours  solar-day)": "920",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -6579,7 +6579,7 @@
    "Run time per day of solar charging (hours)": "7",
    "Total light output (lumens)": "130",
    "Total lighting service (lumen-hours  solar-day)": "910",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -6728,7 +6728,7 @@
    "Run time per day of solar charging (hours)": "4,3",
    "Total light output (lumens)": "210",
    "Total lighting service (lumen-hours  solar-day)": "900",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -6877,7 +6877,7 @@
    "Run time per day of solar charging (hours)": "4,3",
    "Total light output (lumens)": "210",
    "Total lighting service (lumen-hours  solar-day)": "900",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -7026,7 +7026,7 @@
    "Run time per day of solar charging (hours)": "2,9",
    "Total light output (lumens)": "308",
    "Total lighting service (lumen-hours  solar-day)": "890",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -7175,7 +7175,7 @@
    "Run time per day of solar charging (hours)": "4,2",
    "Total light output (lumens)": "210",
    "Total lighting service (lumen-hours  solar-day)": "880",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -7324,7 +7324,7 @@
    "Run time per day of solar charging (hours)": "5,5",
    "Total light output (lumens)": "160",
    "Total lighting service (lumen-hours  solar-day)": "880",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -7473,7 +7473,7 @@
    "Run time per day of solar charging (hours)": "5,5",
    "Total light output (lumens)": "160",
    "Total lighting service (lumen-hours  solar-day)": "880",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -7622,7 +7622,7 @@
    "Run time per day of solar charging (hours)": "4,6",
    "Total light output (lumens)": "190",
    "Total lighting service (lumen-hours  solar-day)": "870",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -7771,7 +7771,7 @@
    "Run time per day of solar charging (hours)": "4,7",
    "Total light output (lumens)": "180",
    "Total lighting service (lumen-hours  solar-day)": "850",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -7920,7 +7920,7 @@
    "Run time per day of solar charging (hours)": "6,1",
    "Total light output (lumens)": "130",
    "Total lighting service (lumen-hours  solar-day)": "790",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -8069,7 +8069,7 @@
    "Run time per day of solar charging (hours)": "6,1",
    "Total light output (lumens)": "130",
    "Total lighting service (lumen-hours  solar-day)": "790",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -8218,7 +8218,7 @@
    "Run time per day of solar charging (hours)": "3,9",
    "Total light output (lumens)": "200",
    "Total lighting service (lumen-hours  solar-day)": "780",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -8367,7 +8367,7 @@
    "Run time per day of solar charging (hours)": "8",
    "Total light output (lumens)": "110",
    "Total lighting service (lumen-hours  solar-day)": "780",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -8516,7 +8516,7 @@
    "Run time per day of solar charging (hours)": "4,8",
    "Total light output (lumens)": "160",
    "Total lighting service (lumen-hours  solar-day)": "770",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -8665,7 +8665,7 @@
    "Run time per day of solar charging (hours)": "5,7",
    "Total light output (lumens)": "130",
    "Total lighting service (lumen-hours  solar-day)": "740",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -8814,7 +8814,7 @@
    "Run time per day of solar charging (hours)": "9,6",
    "Total light output (lumens)": "77",
    "Total lighting service (lumen-hours  solar-day)": "740",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -8963,7 +8963,7 @@
    "Run time per day of solar charging (hours)": "4,4",
    "Total light output (lumens)": "170",
    "Total lighting service (lumen-hours  solar-day)": "730",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -9112,7 +9112,7 @@
    "Run time per day of solar charging (hours)": "5",
    "Total light output (lumens)": "140",
    "Total lighting service (lumen-hours  solar-day)": "700",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -9261,7 +9261,7 @@
    "Run time per day of solar charging (hours)": "4,9",
    "Total light output (lumens)": "140",
    "Total lighting service (lumen-hours  solar-day)": "690",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -9410,7 +9410,7 @@
    "Run time per day of solar charging (hours)": "5,5",
    "Total light output (lumens)": "125",
    "Total lighting service (lumen-hours  solar-day)": "690",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -9559,7 +9559,7 @@
    "Run time per day of solar charging (hours)": "2,9",
    "Total light output (lumens)": "233",
    "Total lighting service (lumen-hours  solar-day)": "680",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -9708,7 +9708,7 @@
    "Run time per day of solar charging (hours)": "3,1",
    "Total light output (lumens)": "220",
    "Total lighting service (lumen-hours  solar-day)": "680",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -9857,7 +9857,7 @@
    "Run time per day of solar charging (hours)": "6,7",
    "Total light output (lumens)": "102",
    "Total lighting service (lumen-hours  solar-day)": "680",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -10006,7 +10006,7 @@
    "Run time per day of solar charging (hours)": "8,3",
    "Total light output (lumens)": "82",
    "Total lighting service (lumen-hours  solar-day)": "680",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -10155,7 +10155,7 @@
    "Run time per day of solar charging (hours)": "8,9",
    "Total light output (lumens)": "74",
    "Total lighting service (lumen-hours  solar-day)": "660",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -10304,7 +10304,7 @@
    "Run time per day of solar charging (hours)": "7,6",
    "Total light output (lumens)": "97",
    "Total lighting service (lumen-hours  solar-day)": "740",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -10453,7 +10453,7 @@
    "Run time per day of solar charging (hours)": "3,8",
    "Total light output (lumens)": "167",
    "Total lighting service (lumen-hours  solar-day)": "630",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -10602,7 +10602,7 @@
    "Run time per day of solar charging (hours)": "3,9",
    "Total light output (lumens)": "160",
    "Total lighting service (lumen-hours  solar-day)": "620",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -10751,7 +10751,7 @@
    "Run time per day of solar charging (hours)": "4,8",
    "Total light output (lumens)": "130",
    "Total lighting service (lumen-hours  solar-day)": "620",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -10900,7 +10900,7 @@
    "Run time per day of solar charging (hours)": "5",
    "Total light output (lumens)": "120",
    "Total lighting service (lumen-hours  solar-day)": "600",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -11049,7 +11049,7 @@
    "Run time per day of solar charging (hours)": "4,9",
    "Total light output (lumens)": "120",
    "Total lighting service (lumen-hours  solar-day)": "590",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -11198,7 +11198,7 @@
    "Run time per day of solar charging (hours)": "3,6",
    "Total light output (lumens)": "160",
    "Total lighting service (lumen-hours  solar-day)": "580",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -11347,7 +11347,7 @@
    "Run time per day of solar charging (hours)": "6,1",
    "Total light output (lumens)": "93",
    "Total lighting service (lumen-hours  solar-day)": "570",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -11496,7 +11496,7 @@
    "Run time per day of solar charging (hours)": "7,6",
    "Total light output (lumens)": "74",
    "Total lighting service (lumen-hours  solar-day)": "560",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -11645,7 +11645,7 @@
    "Run time per day of solar charging (hours)": "6,3",
    "Total light output (lumens)": "85",
    "Total lighting service (lumen-hours  solar-day)": "540",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -11794,7 +11794,7 @@
    "Run time per day of solar charging (hours)": "5,4",
    "Total light output (lumens)": "98",
    "Total lighting service (lumen-hours  solar-day)": "530",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -11943,7 +11943,7 @@
    "Run time per day of solar charging (hours)": "5,6",
    "Total light output (lumens)": "91",
    "Total lighting service (lumen-hours  solar-day)": "510",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -12092,7 +12092,7 @@
    "Run time per day of solar charging (hours)": "5,7",
    "Total light output (lumens)": "86",
    "Total lighting service (lumen-hours  solar-day)": "490",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -12241,7 +12241,7 @@
    "Run time per day of solar charging (hours)": "5,1",
    "Total light output (lumens)": "92",
    "Total lighting service (lumen-hours  solar-day)": "470",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -12390,7 +12390,7 @@
    "Run time per day of solar charging (hours)": "4,1",
    "Total light output (lumens)": "110",
    "Total lighting service (lumen-hours  solar-day)": "450",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -12539,7 +12539,7 @@
    "Run time per day of solar charging (hours)": "4,1",
    "Total light output (lumens)": "100",
    "Total lighting service (lumen-hours  solar-day)": "410",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -12688,7 +12688,7 @@
    "Run time per day of solar charging (hours)": "2,6",
    "Total light output (lumens)": "140",
    "Total lighting service (lumen-hours  solar-day)": "360",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -12837,7 +12837,7 @@
    "Run time per day of solar charging (hours)": "7,3",
    "Total light output (lumens)": "46",
    "Total lighting service (lumen-hours  solar-day)": "340",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -12986,7 +12986,7 @@
    "Run time per day of solar charging (hours)": "5,4",
    "Total light output (lumens)": "51",
    "Total lighting service (lumen-hours  solar-day)": "280",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -13135,7 +13135,7 @@
    "Run time per day of solar charging (hours)": "4",
    "Total light output (lumens)": "65",
    "Total lighting service (lumen-hours  solar-day)": "260",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -13284,7 +13284,7 @@
    "Run time per day of solar charging (hours)": "3,6",
    "Total light output (lumens)": "63",
    "Total lighting service (lumen-hours  solar-day)": "230",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -13433,7 +13433,7 @@
    "Run time per day of solar charging (hours)": "3,6",
    "Total light output (lumens)": "63",
    "Total lighting service (lumen-hours  solar-day)": "230",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -13582,7 +13582,7 @@
    "Run time per day of solar charging (hours)": "2,9",
    "Total light output (lumens)": "76",
    "Total lighting service (lumen-hours  solar-day)": "220",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -13731,7 +13731,7 @@
    "Run time per day of solar charging (hours)": "6,8",
    "Total light output (lumens)": "33",
    "Total lighting service (lumen-hours  solar-day)": "220",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -13880,7 +13880,7 @@
    "Run time per day of solar charging (hours)": "7,8",
    "Total light output (lumens)": "28",
    "Total lighting service (lumen-hours  solar-day)": "220",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -14029,7 +14029,7 @@
    "Run time per day of solar charging (hours)": "4,7",
    "Total light output (lumens)": "45",
    "Total lighting service (lumen-hours  solar-day)": "210",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -14178,7 +14178,7 @@
    "Run time per day of solar charging (hours)": "5,3",
    "Total light output (lumens)": "35",
    "Total lighting service (lumen-hours  solar-day)": "190",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -14327,7 +14327,7 @@
    "Run time per day of solar charging (hours)": "5,8",
    "Total light output (lumens)": "32",
    "Total lighting service (lumen-hours  solar-day)": "190",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -14476,7 +14476,7 @@
    "Run time per day of solar charging (hours)": "4,2",
    "Total light output (lumens)": "36",
    "Total lighting service (lumen-hours  solar-day)": "150",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -14625,7 +14625,7 @@
    "Run time per day of solar charging (hours)": "4,6",
    "Total light output (lumens)": "33",
    "Total lighting service (lumen-hours  solar-day)": "150",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -14774,7 +14774,7 @@
    "Run time per day of solar charging (hours)": "6,1",
    "Total light output (lumens)": "25",
    "Total lighting service (lumen-hours  solar-day)": "150",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -14923,7 +14923,7 @@
    "Run time per day of solar charging (hours)": "4,7",
    "Total light output (lumens)": "29",
    "Total lighting service (lumen-hours  solar-day)": "140",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -15072,7 +15072,7 @@
    "Run time per day of solar charging (hours)": "6,2",
    "Total light output (lumens)": "23",
    "Total lighting service (lumen-hours  solar-day)": "140",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -15221,7 +15221,7 @@
    "Run time per day of solar charging (hours)": "3,9",
    "Total light output (lumens)": "33",
    "Total lighting service (lumen-hours  solar-day)": "130",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -15370,7 +15370,7 @@
    "Run time per day of solar charging (hours)": "4,5",
    "Total light output (lumens)": "29",
    "Total lighting service (lumen-hours  solar-day)": "130",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -15519,7 +15519,7 @@
    "Run time per day of solar charging (hours)": "3,1",
    "Total light output (lumens)": "40",
    "Total lighting service (lumen-hours  solar-day)": "120",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -15668,7 +15668,7 @@
    "Run time per day of solar charging (hours)": "5",
    "Total light output (lumens)": "20",
    "Total lighting service (lumen-hours  solar-day)": "100",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -15817,7 +15817,7 @@
    "Run time per day of solar charging (hours)": "3,6",
    "Total light output (lumens)": "27",
    "Total lighting service (lumen-hours  solar-day)": "97",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -15966,7 +15966,7 @@
    "Run time per day of solar charging (hours)": "2",
    "Total light output (lumens)": "47",
    "Total lighting service (lumen-hours  solar-day)": "94",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -16115,7 +16115,7 @@
    "Run time per day of solar charging (hours)": "3,1",
    "Total light output (lumens)": "27",
    "Total lighting service (lumen-hours  solar-day)": "84",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -16264,7 +16264,7 @@
    "Run time per day of solar charging (hours)": "8",
    "Total light output (lumens)": "160",
    "Total lighting service (lumen-hours  solar-day)": "1.300",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -16413,7 +16413,7 @@
    "Run time per day of solar charging (hours)": "4,3",
    "Total light output (lumens)": "27",
    "Total lighting service (lumen-hours  solar-day)": "990",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -16562,7 +16562,7 @@
    "Run time per day of solar charging (hours)": "5",
    "Total light output (lumens)": "55",
    "Total lighting service (lumen-hours  solar-day)": "280",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -16711,7 +16711,7 @@
    "Run time per day of solar charging (hours)": "6,6",
    "Total light output (lumens)": "120",
    "Total lighting service (lumen-hours  solar-day)": "790",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -16860,7 +16860,7 @@
    "Run time per day of solar charging (hours)": "15",
    "Total light output (lumens)": "385",
    "Total lighting service (lumen-hours  solar-day)": "9.000",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -17009,7 +17009,7 @@
    "Run time per day of solar charging (hours)": "9",
    "Total light output (lumens)": "320",
    "Total lighting service (lumen-hours  solar-day)": "2.900",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -17158,7 +17158,7 @@
    "Run time per day of solar charging (hours)": "2,9",
    "Total light output (lumens)": "36",
    "Total lighting service (lumen-hours  solar-day)": "100",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -17307,7 +17307,7 @@
    "Run time per day of solar charging (hours)": "-",
    "Total light output (lumens)": "230",
    "Total lighting service (lumen-hours  solar-day)": "2.900",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -17456,7 +17456,7 @@
    "Run time per day of solar charging (hours)": "-",
    "Total light output (lumens)": "230",
    "Total lighting service (lumen-hours  solar-day)": "1.400",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -17605,7 +17605,7 @@
    "Run time per day of solar charging (hours)": "7,5",
    "Total light output (lumens)": "570",
    "Total lighting service (lumen-hours  solar-day)": "4.300",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -17754,7 +17754,7 @@
    "Run time per day of solar charging (hours)": "5,7",
    "Total light output (lumens)": "35",
    "Total lighting service (lumen-hours  solar-day)": "200",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -17903,7 +17903,7 @@
    "Run time per day of solar charging (hours)": "5,3",
    "Total light output (lumens)": "110",
    "Total lighting service (lumen-hours  solar-day)": "580",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -18052,7 +18052,7 @@
    "Run time per day of solar charging (hours)": "8",
    "Total light output (lumens)": "80",
    "Total lighting service (lumen-hours  solar-day)": "640",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -18201,7 +18201,7 @@
    "Run time per day of solar charging (hours)": "8",
    "Total light output (lumens)": "80",
    "Total lighting service (lumen-hours  solar-day)": "640",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -18350,7 +18350,7 @@
    "Run time per day of solar charging (hours)": "4",
    "Total light output (lumens)": "27",
    "Total lighting service (lumen-hours  solar-day)": "110",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -18499,7 +18499,7 @@
    "Run time per day of solar charging (hours)": "3",
    "Total light output (lumens)": "60",
    "Total lighting service (lumen-hours  solar-day)": "180",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -18648,7 +18648,7 @@
    "Run time per day of solar charging (hours)": "4",
    "Total light output (lumens)": "35",
    "Total lighting service (lumen-hours  solar-day)": "140",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -18797,7 +18797,7 @@
    "Run time per day of solar charging (hours)": "7,4",
    "Total light output (lumens)": "380",
    "Total lighting service (lumen-hours  solar-day)": "4.000",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -18946,7 +18946,7 @@
    "Run time per day of solar charging (hours)": "3,6",
    "Total light output (lumens)": "380",
    "Total lighting service (lumen-hours  solar-day)": "2.000",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -19095,7 +19095,7 @@
    "Run time per day of solar charging (hours)": "11",
    "Total light output (lumens)": "7,5",
    "Total lighting service (lumen-hours  solar-day)": "23",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -19244,7 +19244,7 @@
    "Run time per day of solar charging (hours)": "11",
    "Total light output (lumens)": "7,5",
    "Total lighting service (lumen-hours  solar-day)": "7",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -19393,7 +19393,7 @@
    "Run time per day of solar charging (hours)": "29",
    "Total light output (lumens)": "470",
    "Total lighting service (lumen-hours  solar-day)": "120",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -19542,7 +19542,7 @@
    "Run time per day of solar charging (hours)": "6,1",
    "Total light output (lumens)": "110",
    "Total lighting service (lumen-hours  solar-day)": "18",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -19691,7 +19691,7 @@
    "Run time per day of solar charging (hours)": "6,6",
    "Total light output (lumens)": "240",
    "Total lighting service (lumen-hours  solar-day)": "1.700",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -19840,7 +19840,7 @@
    "Run time per day of solar charging (hours)": "4,2",
    "Total light output (lumens)": "370",
    "Total lighting service (lumen-hours  solar-day)": "1.600",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -19989,7 +19989,7 @@
    "Run time per day of solar charging (hours)": "2,1",
    "Total light output (lumens)": "55",
    "Total lighting service (lumen-hours  solar-day)": "120",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -20138,7 +20138,7 @@
    "Run time per day of solar charging (hours)": "3,9",
    "Total light output (lumens)": "160",
    "Total lighting service (lumen-hours  solar-day)": "620",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -20287,7 +20287,7 @@
    "Run time per day of solar charging (hours)": "6",
    "Total light output (lumens)": "430",
    "Total lighting service (lumen-hours  solar-day)": "2.600",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -20436,7 +20436,7 @@
    "Run time per day of solar charging (hours)": "2,9",
    "Total light output (lumens)": "54",
    "Total lighting service (lumen-hours  solar-day)": "160",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -20585,7 +20585,7 @@
    "Run time per day of solar charging (hours)": "3,2",
    "Total light output (lumens)": "41",
    "Total lighting service (lumen-hours  solar-day)": "130",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -20734,7 +20734,7 @@
    "Run time per day of solar charging (hours)": "3,2",
    "Total light output (lumens)": "41",
    "Total lighting service (lumen-hours  solar-day)": "130",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -20883,7 +20883,7 @@
    "Run time per day of solar charging (hours)": "7,1",
    "Total light output (lumens)": "420",
    "Total lighting service (lumen-hours  solar-day)": "3.000",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -21032,7 +21032,7 @@
    "Run time per day of solar charging (hours)": "6,1",
    "Total light output (lumens)": "310",
    "Total lighting service (lumen-hours  solar-day)": "1.900",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -21181,7 +21181,7 @@
    "Run time per day of solar charging (hours)": "10",
    "Total light output (lumens)": "310",
    "Total lighting service (lumen-hours  solar-day)": "3.100",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -21330,7 +21330,7 @@
    "Run time per day of solar charging (hours)": "4,8",
    "Total light output (lumens)": "150",
    "Total lighting service (lumen-hours  solar-day)": "720",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -21479,7 +21479,7 @@
    "Run time per day of solar charging (hours)": "8",
    "Total light output (lumens)": "140",
    "Total lighting service (lumen-hours  solar-day)": "1.100",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -21628,7 +21628,7 @@
    "Run time per day of solar charging (hours)": "5,4",
    "Total light output (lumens)": "180",
    "Total lighting service (lumen-hours  solar-day)": "1.200",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -21777,7 +21777,7 @@
    "Run time per day of solar charging (hours)": "7,4",
    "Total light output (lumens)": "1000",
    "Total lighting service (lumen-hours  solar-day)": "-",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
@@ -21922,11 +21922,11 @@
    "12V power outlets": "",
    "5V USB ports": "",
    "Avaliable Daily Electrical Energy (Whday)": "",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
-   "Run time on full battery (hours)": "",
+   
    "Run time per day of solar charging (hours)": "",
    "Total light output (lumens)": "",
    "Total lighting service (lumen-hours  solar-day)": "",
