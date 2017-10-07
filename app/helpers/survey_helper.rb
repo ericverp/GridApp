@@ -3,6 +3,8 @@ module SurveyHelper
 	def self.process_survey(items,survey)
 
 
+		return if survey.nil?
+
 		these_items = items
 
 		# find customer country
