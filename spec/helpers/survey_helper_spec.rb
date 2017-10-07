@@ -137,6 +137,36 @@ describe "SurveyHelper" do
     	expect(result[0]).to eql(first_product)
 
 	end
-	
+
+
+	it "filters on the battery capacity of mobiles high" do
+		first_country = Country.create(name:"kenya")
+    	manufacturer = Manufacturer.create(name: "first")
+
+    	first_product = LightingProduct.create!(name: "first", countries:[first_country], manufacturer: manufacturer, battery_capacity: 5, num_5v: 2)
+    	second_product = LightingProduct.create!(name: "second", countries:[first_country], manufacturer: manufacturer, battery_capacity: 12, num_5v: 2  )
+
+    	survey_params = [{:Label => 'number of mobiles', :value => "c" },{:Label => 'mobile charging required', :value => "yes" }]
+
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+
+    	expect(result[0]).to eql(second_product)
+
+	end
+
+	it "filters on the battery capacity of mobiles low" do
+		first_country = Country.create(name:"kenya")
+    	manufacturer = Manufacturer.create(name: "first")
+
+    	first_product = LightingProduct.create!(name: "first", countries:[first_country], manufacturer: manufacturer, battery_capacity: 5, num_5v: 2)
+    	second_product = LightingProduct.create!(name: "second", countries:[first_country], manufacturer: manufacturer, battery_capacity: 12, num_5v: 2  )
+
+    	survey_params = [{:Label => 'number of mobiles', :value => "a" },{:Label => 'mobile charging required', :value => "yes" }]
+
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+
+    	expect(result[0]).to eql(first_product)
+
+	end 
   end
 end

@@ -65,11 +65,38 @@ module SurveyHelper
 				when "d"
 					these_items = these_items.select{|item| item[:runtime] >  13}	
 				else
-					puts "cannot parse answer #{lighting_durangtion}"
+					puts "cannot parse answer #{lighting_duration}"
 			end
 		end
-		return these_items
 
+
+		num_mob_answer = get_survey_value(survey,"number of mobiles")
+		num_radio_answer = get_survey_value(survey,"radio")
+		num_tv_answer = get_survey_value(survey,"tv")
+
+		mobs = 0
+
+		if(!num_mob_answer.nil? and mobile_answer.eql? "yes")
+			case num_mob_answer
+				when "a"
+					mobs =  1
+				when "b"
+					mobs = 2
+				when "c"
+					mobs =  3
+				when "d"
+					mobs = 5	
+				else
+					puts "cannot parse answer #{lighting_duration}"
+			end
+		end
+		radios =  if num_radio_answer.eql? "yes" then 1 else 0 end
+		tvs = if num_tv_answer.eql? "yes" then 1 else 0 end
+
+		reqd_cap = get_capacity(mobs, radios, tvs) 
+		
+		these_items = these_items.select{|item| !item[:battery_capacity].nil?  and item[:battery_capacity]>= reqd_cap} if reqd_cap > 0		
+		return these_items
 	end
 
 
@@ -79,5 +106,11 @@ module SurveyHelper
 
 		return nil if prospect_val.nil? or prospect_val.empty?
 		prospect_val.first[:value].downcase
+	end
+
+
+	def self.get_capacity(mobiles, radios, tvs)
+		# binding.pry
+		(mobiles * 2 ) + (radios * 1.5) + (tvs * 25)
 	end
 end
