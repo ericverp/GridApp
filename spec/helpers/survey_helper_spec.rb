@@ -15,7 +15,8 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'Country', :value => "kenya" },{:Label => 'Number of lights', :value => "a" },{:Label => 'mobile charging required', :value => "yes" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result[0][:name]).to eql('first')
     end
@@ -31,7 +32,7 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'Country', :value => "tanzania" },{:Label => 'Number of lights', :value => "a" },{:Label => 'mobile charging required', :value => "yes" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result[0][:name]).to eql('second')
     end 
@@ -46,7 +47,7 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'Country', :value => "blah" },{:Label => 'Number of lights', :value => "a" },{:Label => 'mobile charging required', :value => "yes" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result.length).to eql(0)
     end
@@ -60,7 +61,7 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'Country', :value => "kenya" },{:Label => 'Number of lights', :value => "a" },{:Label => 'mobile charging required', :value => "yes" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result[0][:name]).to eql("first")
     end
@@ -74,7 +75,7 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'Country', :value => "kenya" },{:Label => 'Number of lights', :value => "c" },{:Label => 'mobile charging required', :value => "yes" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result[0][:name]).to eql("second")
     end  
@@ -88,7 +89,7 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'Country', :value => "kenya" },{:Label => 'Number of lights', :value => "a" },{:Label => 'mobile charging required', :value => "yes" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result[0][:name]).to eql("first")
 	end
@@ -102,7 +103,7 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'Country', :value => "kenya" },{:Label => 'Number of lights', :value => "a" },{:Label => 'mobile charging required', :value => "no" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result[0][:name]).to eql("second")
 	end		
@@ -117,7 +118,7 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'Lighting duration', :value => "a" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result[0][:name]).to eql("second")
 
@@ -132,7 +133,7 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'Lighting duration', :value => "c" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result[0]).to eql(first_product)
 
@@ -148,7 +149,7 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'number of mobiles', :value => "c" },{:Label => 'mobile charging required', :value => "yes" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result[0]).to eql(second_product)
 
@@ -163,7 +164,7 @@ describe "SurveyHelper" do
 
     	survey_params = [{:Label => 'number of mobiles', :value => "a" },{:Label => 'mobile charging required', :value => "yes" }]
 
-    	result = SurveyHelper.process_survey([first_product,second_product],survey_params)	
+    	result = SurveyHelper.process_survey([first_product,second_product],survey_params.to_json)	
 
     	expect(result[0]).to eql(first_product)
 

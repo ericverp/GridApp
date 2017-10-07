@@ -1,3 +1,7 @@
+require 'json'
+require 'pry'
+
+
 module SurveyHelper
 
 	def self.process_survey(items,survey)
@@ -8,12 +12,14 @@ module SurveyHelper
 		these_items = items
 
 		# find customer country
-
+		survey = JSON.parse(survey)
 		country = get_survey_value(survey,"Country")
 
 		
 		these_items = these_items.select{|item| item.countries.filter_name(country).any?} if !country.nil?
 		
+
+
 		# how many lights will you need
 
 		lights_answer = get_survey_value(survey,"Number of lights")
@@ -21,13 +27,13 @@ module SurveyHelper
 		if(!lights_answer.nil?)
 			case lights_answer  
 				when "a"
-					these_items = these_items.select{|item| item[:num_of_lights].eql? 1}
+					these_items = these_items.select{|item| item['num_of_lights'].eql? 1}
 				when "b"
-					these_items = these_items.select{|item| item[:num_of_lights].eql? 2}
+					these_items = these_items.select{|item| item['num_of_lights'].eql? 2}
 				when "c"
-					these_items = these_items.select{|item| item[:num_of_lights].eql? 3}
+					these_items = these_items.select{|item| item['num_of_lights'].eql? 3}
 				when "d"
-					these_items = these_items.select{|item| item[:num_of_lights] > 3}
+					these_items = these_items.select{|item| item['num_of_lights'] > 3}
 				else
 					puts "no match found for #{lights_answer}"
 			end
@@ -39,13 +45,14 @@ module SurveyHelper
 		if(!mobile_answer.nil?)
 			case mobile_answer
 				when "yes"
-					these_items = these_items.select{|item| item[:num_5v] >= 1}
+					these_items = these_items.select{|item| item['num_5v'] >= 1}
 				when "no"
-					these_items = these_items.select{|item| item[:num_5v].eql? 0}
+					these_items = these_items.select{|item| item['num_5v'].eql? 0}
 				else
 					puts "cannot parse answer #{mobile_answer}"
 			end
 		end
+
 
 		# how long will lights be used for
 
@@ -57,13 +64,13 @@ module SurveyHelper
 		
 			case lighting_duration
 				when "a"
-					these_items = these_items.select{|item| item[:runtime] <= 5}
+					these_items = these_items.select{|item| item['runtime'] <= 5}
 				when "b"
-					these_items = these_items.select{|item| item[:runtime].between?(6,8)}
+					these_items = these_items.select{|item| item['runtime'].between?(6,8)}
 				when "c"
-					these_items = these_items.select{|item| item[:runtime].between?(9,12)}
+					these_items = these_items.select{|item| item['runtime'].between?(9,12)}
 				when "d"
-					these_items = these_items.select{|item| item[:runtime] >  13}	
+					these_items = these_items.select{|item| item['runtime'] >  13}	
 				else
 					puts "cannot parse answer #{lighting_duration}"
 			end
@@ -102,10 +109,10 @@ module SurveyHelper
 
 	private
 	def self.get_survey_value(survey, val)
-		prospect_val = survey.select{|item|  item[:Label].eql? val}
+		prospect_val = survey.select{|item|  item['label'].eql? val}
 
 		return nil if prospect_val.nil? or prospect_val.empty?
-		prospect_val.first[:value].downcase
+		prospect_val.first['value'].downcase
 	end
 
 

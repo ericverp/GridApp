@@ -1,3 +1,5 @@
+require 'pry'
+
 class SurveyController < ApplicationController
 	skip_before_action :verify_authenticity_token
 
@@ -5,6 +7,7 @@ class SurveyController < ApplicationController
 		#    this method calculates which product is the best given the survey
 		@survey_products = SurveyHelper.process_survey(LightingProduct.all, params[:values])
 		
+		# binding.pry
 		respondent =  get_respondent(params) 
 		
 
