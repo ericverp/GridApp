@@ -12,6 +12,7 @@
 
 ActiveRecord::Schema.define(version: 20171007125312) do
 
+
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -96,10 +97,33 @@ ActiveRecord::Schema.define(version: 20171007125312) do
     t.string "product_identifier"
   end
 
+  create_table "lighting_products_survey_results", id: false, force: :cascade do |t|
+    t.bigint "survey_result_id", null: false
+    t.bigint "lighting_product_id", null: false
+  end
+
   create_table "manufacturers", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
+  create_table "respondents", force: :cascade do |t|
+    t.string "contact_name"
+    t.string "phone"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "survey_results", force: :cascade do |t|
+    t.bigint "lighting_products_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.bigint "respondent_id"
+    t.index ["lighting_products_id"], name: "index_survey_results_on_lighting_products_id"
+    t.index ["respondent_id"], name: "index_survey_results_on_respondent_id"
+  end
+
+  add_foreign_key "survey_results", "lighting_products", column: "lighting_products_id"
+  add_foreign_key "survey_results", "respondents"
 end
