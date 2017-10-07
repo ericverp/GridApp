@@ -1,5 +1,7 @@
 require "spec_helper"
 require 'rails_helper'
+require 'pry'
+require 'json'
 
 
 describe "SurveyController", :type => :controller do
@@ -29,6 +31,16 @@ describe "SurveyController", :type => :controller do
     		] }
 
     	expect(response.status).to eq(200)
+    end
+
+
+
+    it "creates a new respondent from the results" do
+      post :survey, :params => {:contact_name => "testname", :phone => "12323123", :values => [{:val => "someval"}]}
+
+      
+      expect(JSON.parse(response.body)['result_id']).to be_an(Integer)
+
     end 
   end
 end
