@@ -27,7 +27,7 @@
    "Address line 2": "Col. Reforma",
    "Manufacturer": "Fosera",
    "Country": "Mexico",
-   "Country": "Latin America",
+   "Country": "Latin America"
  },
  {
    "Distributor": "Africa Energy",
@@ -56,7 +56,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Little Sun",
-   "Country": "Zimbabwe",
+   "Country": "Zimbabwe"
  },
  {
    "Distributor": "Altertec",
@@ -86,7 +86,7 @@
    "Address line 2": "Estel�, Nicaragua",
    "Manufacturer": "Fosera",
    "Country": "Nicaragua",
-   "Country": "Latin America",
+   "Country": "Latin America"
  },
  {
    "Distributor": "Angaza-boma",
@@ -115,7 +115,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Trony Solar",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Annex Power",
@@ -144,7 +144,7 @@
    "Address line 1": "Office C2-D2, 2nd Floor, Goldenland Building, 153/3 Soi Mahardlekluang 1, Rajdamri Road, Kwaeng Lumpini, Khet Pathumwan",
    "Address line 2": "10330 Bangkok, Thailand",
    "Manufacturer": "Fosera",
-   "Country": "Thailand",
+   "Country": "Thailand"
  },
  {
    "Distributor": "ARTI Energy",
@@ -174,7 +174,7 @@
    "Address line 2": "Dar es Salaam, Tanzania",
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Barefoot Power",
-   "Country": "Tanzania",
+   "Country": "Tanzania"
  },
  {
    "Distributor": "Barefoot Power",
@@ -201,7 +201,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Manufacturer": "Barefoot Power",
+   "Manufacturer": "Barefoot Power"
  },
  {
    "Distributor": "Barefoot Power Uganda Ltd",
@@ -230,7 +230,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Barefoot Power",
-   "Country": "Uganda",
+   "Country": "Uganda"
  },
  {
    "Distributor": "Beta Engineering Service PLC",
@@ -259,7 +259,7 @@
    "Address line 1": "Yeka Sub city, Kebele 13/14, House No. New  P.O. Box 18134 Addis Ababa",
    "Address line 2": "Ethiopia",
    "Manufacturer": "Fosera",
-   "Country": "Ethiopia",
+   "Country": "Ethiopia"
  },
  {
    "Distributor": "Binatone",
@@ -301,7 +301,7 @@
    "Country": "Benin",
    "Country": "Burkina Faso",
    "Country": "Niger",
-   "Country": "Mali",
+   "Country": "Mali"
  },
  {
    "Distributor": "Burro",
@@ -330,7 +330,7 @@
    "Address line 1": "PO Box KF 721 ",
    "Address line 2": "Koforidua, Ghana",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Ghana",
+   "Country": "Ghana"
  },
  {
    "Distributor": "CB Environmental and Energy Management Systems",
@@ -359,7 +359,7 @@
    "Address line 1": "Acacia Estate, Taguig City",
    "Address line 2": "Metro Manila, Philippines",
    "Manufacturer": "Fosera",
-   "Country": "Philippines",
+   "Country": "Philippines"
  },
  {
    "Distributor": "Cellulosics Philippines",
@@ -388,7 +388,7 @@
    "Address line 1": "2375 Antipolo Street Guadalupe Nuevo",
    "Address line 2": "Makati City, Philippines",
    "Manufacturer": "Fosera",
-   "Country": "Philippines",
+   "Country": "Philippines"
  },
  {
    "Distributor": "Chitsere Trading",
@@ -417,7 +417,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "SolarWorks!",
-   "Country": "Zimbabwe",
+   "Country": "Zimbabwe"
  },
  {
    "Distributor": "Christian Radio Missionary Fellowship",
@@ -446,7 +446,7 @@
    "Address line 1": "P.O. Box 1307",
    "Address line 2": "GOROKA EHP, Papua New Guinea",
    "Manufacturer": "Fosera",
-   "Country": "Papua New Guinea",
+   "Country": "Papua New Guinea"
  },
  {
    "Distributor": "Colibr� Global, Inc.",
@@ -477,7 +477,7 @@
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Omnivoltaic",
    "Country": "Nicaragua",
-   "Country": "Latin America",
+   "Country": "Latin America"
  },
  {
    "Distributor": "Comin Khmere",
@@ -506,7 +506,7 @@
    "Address line 1": "N� 8b, Down town Road N� 7, P.O. Box 28",
    "Address line 2": "Phnom Penh, Cambodia",
    "Manufacturer": "Fosera",
-   "Country": "Cambodia",
+   "Country": "Cambodia"
  },
  {
    "Distributor": "d.light Africa",
@@ -558,7 +558,7 @@
    "Country": "C�te d�Ivoire",
    "Country": "Rwanda",
    "Country": "Madagascar",
-   "Country": "Democratic Republic of Congo",
+   "Country": "Democratic Republic of Congo"
  },
  {
    "Distributor": "d.light Asia & Oceania",
@@ -607,7 +607,7 @@
    "Country": "Sri Lanka",
    "Country": "Thailand",
    "Country": "Vanuatu",
-   "Country": "Vietnam",
+   "Country": "Vietnam"
  },
  {
    "Distributor": "d.light Bangladesh",
@@ -635,7 +635,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Bangladesh",
+   "Country": "Bangladesh"
  },
  {
    "Distributor": "d.light Canada",
@@ -663,7 +663,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Canada",
+   "Country": "Canada"
  },
  {
    "Distributor": "d.light China",
@@ -691,7 +691,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "China",
+   "Country": "China"
  },
  {
    "Distributor": "d.light Europe",
@@ -720,7 +720,7 @@
    "Address line 2": "",
    "Manufacturer": "d.light Design",
    "Country": "United Kingdom",
-   "Country": "Switzerland",
+   "Country": "Switzerland"
  },
  {
    "Distributor": "d.light Haiti",
@@ -749,7 +749,7 @@
    "Address line 2": "",
    "Manufacturer": "d.light Design",
    "Country": "Haiti",
-   "Country": "Latin America",
+   "Country": "Latin America"
  },
  {
    "Distributor": "d.light India",
@@ -777,7 +777,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "India",
+   "Country": "India"
  },
  {
    "Distributor": "d.light Latin America",
@@ -814,7 +814,7 @@
    "Country": "Mexico",
    "Country": "Nicaragua",
    "Country": "Peru",
-   "Country": "Latin America",
+   "Country": "Latin America"
  },
  {
    "Distributor": "d.light Nepal",
@@ -842,7 +842,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Nepal",
+   "Country": "Nepal"
  },
  {
    "Distributor": "d.light Pakistan",
@@ -870,7 +870,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Pakistan",
+   "Country": "Pakistan"
  },
  {
    "Distributor": "d.light Yemen",
@@ -898,7 +898,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Yemen",
+   "Country": "Yemen"
  },
  {
    "Distributor": "Dharmalife",
@@ -929,7 +929,7 @@
    "Manufacturer": "d.light Design",
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Omnivoltaic",
-   "Country": "India",
+   "Country": "India"
  },
  {
    "Distributor": "DNT Solar & Wind Energy s.u.r.l.",
@@ -958,7 +958,7 @@
    "Address line 1": "Av. de la Justice, No. 21, B.P. 1350, Quartier INSS, Rohero I, Bujumbura, Burundi",
    "Address line 2": "257 71142927",
    "Manufacturer": "Fosera",
-   "Country": "Burundi",
+   "Country": "Burundi"
  },
  {
    "Distributor": "Enersom",
@@ -987,7 +987,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Somalia",
+   "Country": "Somalia"
  },
  {
    "Distributor": "Ensol Tanzania Limited",
@@ -1016,7 +1016,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Omnivoltaic",
-   "Country": "Tanzania",
+   "Country": "Tanzania"
  },
  {
    "Distributor": "Ezop-El Engineering Plc",
@@ -1045,7 +1045,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Sunlite Solar",
-   "Country": "Ethiopia",
+   "Country": "Ethiopia"
  },
  {
    "Distributor": "Falcon Mining and Trading Sarl",
@@ -1078,7 +1078,7 @@
    "Country": "Burkina Faso",
    "Country": "Benin",
    "Country": "Niger",
-   "Country": "Gabon",
+   "Country": "Gabon"
  },
  {
    "Distributor": "FF Solar - Energias Renov�veis, Lda.",
@@ -1107,7 +1107,7 @@
    "Address line 1": "Parque Industrial da Feiteirinha Lt.1",
    "Address line 2": "8670-440 Aljezur, Portugal",
    "Manufacturer": "Fosera",
-   "Country": "Portugal",
+   "Country": "Portugal"
  },
  {
    "Distributor": "Fosera Headquarter",
@@ -1136,7 +1136,7 @@
    "Address line 1": "Beim M�hlbach 3",
    "Address line 2": "89171 Illerkirchberg, Germany",
    "Manufacturer": "Fosera",
-   "Country": "Germany",
+   "Country": "Germany"
  },
  {
    "Distributor": "Fosera India",
@@ -1165,7 +1165,7 @@
    "Address line 1": "Fosera India Pvt. Ltd.Plot No. 39/44,Scheme 6, Road No. 2",
    "Address line 2": "",
    "Manufacturer": "Fosera",
-   "Country": "India",
+   "Country": "India"
  },
  {
    "Distributor": "Fosera Ltd. Thailand",
@@ -1194,7 +1194,7 @@
    "Address line 1": "9/110 Moo 5, Klong Nung, Klongluang",
    "Address line 2": "12120 Pathum Thani, Thailand",
    "Manufacturer": "Fosera",
-   "Country": "Thailand",
+   "Country": "Thailand"
  },
  {
    "Distributor": "Fosera SA, Lda",
@@ -1223,7 +1223,7 @@
    "Address line 1": "Av. Base N'tchinga, #210",
    "Address line 2": "Maputo, Mozambique",
    "Manufacturer": "Fosera",
-   "Country": "Mozambique",
+   "Country": "Mozambique"
  },
  {
    "Distributor": "Freeplay Energy",
@@ -1264,7 +1264,7 @@
    "Country": "Benin",
    "Country": "Burkina Faso",
    "Country": "Niger",
-   "Country": "Mali",
+   "Country": "Mali"
  },
  {
    "Distributor": "Futura",
@@ -1308,7 +1308,7 @@
    "Country": "Haiti",
    "Country": "Dominican Republic",
    "Country": "Ecuador",
-   "Country": "Latin America",
+   "Country": "Latin America"
  },
  {
    "Distributor": "Futura Asia",
@@ -1339,7 +1339,7 @@
    "Country": "Bangladesh",
    "Country": "Pakistan",
    "Country": "Papua New Guinea",
-   "Country": "Thailand",
+   "Country": "Thailand"
  },
  {
    "Distributor": "Futura East Africa",
@@ -1369,7 +1369,7 @@
    "Manufacturer": "Futura Sun",
    "Country": "Zambia",
    "Country": "Uganda",
-   "Country": "Rwanda",
+   "Country": "Rwanda"
  },
  {
    "Distributor": "Gbenga Taiwo",
@@ -1398,7 +1398,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Sunlite Solar",
-   "Country": "Nigeria",
+   "Country": "Nigeria"
  },
  {
    "Distributor": "Glenergy Canada",
@@ -1427,7 +1427,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Canada",
+   "Country": "Canada"
  },
  {
    "Distributor": "Glenergy Kenya",
@@ -1456,7 +1456,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Glenergy Tanzania",
@@ -1485,7 +1485,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Tanzania",
+   "Country": "Tanzania"
  },
  {
    "Distributor": "Glenergy Uganda",
@@ -1514,7 +1514,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Uganda",
+   "Country": "Uganda"
  },
  {
    "Distributor": "Global Cycle Solutions ",
@@ -1543,7 +1543,7 @@
    "Address line 1": "P.O. Box 2722",
    "Address line 2": "Nane Nane Grounds, Taso, Njiro",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Tanzania",
+   "Country": "Tanzania"
  },
  {
    "Distributor": "Great Lakes Energy",
@@ -1572,7 +1572,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Rwanda",
+   "Country": "Rwanda"
  },
  {
    "Distributor": "Green Wave WS Ltd",
@@ -1601,7 +1601,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Off-Grid Solutions",
-   "Country": "Mauritius",
+   "Country": "Mauritius"
  },
  {
    "Distributor": "Greenlight Planet",
@@ -1646,7 +1646,7 @@
    "Country": "Papua New Guinea",
    "Country": "Mexico",
    "Country": "Guatemala",
-   "Country": "Peru",
+   "Country": "Peru"
  },
  {
    "Distributor": "Greenlight Planet Africa",
@@ -1696,7 +1696,7 @@
    "Country": "Togo",
    "Country": "Uganda",
    "Country": "Zambia",
-   "Country": "Zimbabwe",
+   "Country": "Zimbabwe"
  },
  {
    "Distributor": "Groupe Ladak",
@@ -1725,7 +1725,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Burundi",
+   "Country": "Burundi"
  },
  {
    "Distributor": "Halocon Technologies",
@@ -1754,7 +1754,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "South Africa",
+   "Country": "South Africa"
  },
  {
    "Distributor": "Haute Energy Systems",
@@ -1784,7 +1784,7 @@
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Omnivoltaic",
-   "Country": "Cameroon",
+   "Country": "Cameroon"
  },
  {
    "Distributor": "Heri Solarkiosk",
@@ -1813,7 +1813,7 @@
    "Address line 1": "",
    "Address line 2": "Madagascar",
    "Manufacturer": "Fosera",
-   "Country": "Madagascar",
+   "Country": "Madagascar"
  },
  {
    "Distributor": "in2brands",
@@ -1842,7 +1842,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Off-Grid Solutions",
-   "Country": "South Africa",
+   "Country": "South Africa"
  },
  {
    "Distributor": "Independent Energy NL",
@@ -1871,7 +1871,7 @@
    "Address line 1": "Hendrik Figeeweg 5C",
    "Address line 2": "2031BJ Haarlem",
    "Manufacturer": "Fosera",
-   "Country": "Netherlands",
+   "Country": "Netherlands"
  },
  {
    "Distributor": "KINGFISHER",
@@ -1900,7 +1900,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Sunlite Solar",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Liberian Energy Network",
@@ -1931,7 +1931,7 @@
    "Manufacturer": "d.light Design",
    "Manufacturer": "Niwa",
    "Manufacturer": "Barefoot Power",
-   "Country": "Liberia",
+   "Country": "Liberia"
  },
  {
    "Distributor": "Light4all Cameroun",
@@ -1962,7 +1962,7 @@
    "Manufacturer": "Philips",
    "Manufacturer": "Barefoot Power",
    "Manufacturer": "Omnivoltaic",
-   "Country": "Cameroon",
+   "Country": "Cameroon"
  },
  {
    "Distributor": "Lighting Engineering Solutions",
@@ -1991,7 +1991,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Fosera",
-   "Country": "Cambodia",
+   "Country": "Cambodia"
  },
  {
    "Distributor": "Lighting SA ",
@@ -2020,7 +2020,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "South Africa",
+   "Country": "South Africa"
  },
  {
    "Distributor": "Lorenzo Power Ltd",
@@ -2049,7 +2049,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Nigeria",
+   "Country": "Nigeria"
  },
  {
    "Distributor": "Lydetco",
@@ -2078,7 +2078,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Ethiopia",
+   "Country": "Ethiopia"
  },
  {
    "Distributor": "M-KOPA",
@@ -2109,7 +2109,7 @@
    "Manufacturer": "M-KOPA Solar",
    "Country": "Kenya",
    "Country": "Tanzania",
-   "Country": "Uganda",
+   "Country": "Uganda"
  },
  {
    "Distributor": "Mibawa",
@@ -2139,7 +2139,7 @@
    "Address line 2": "",
    "Manufacturer": "Niwa",
    "Manufacturer": "Azuri Technology",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Mibawa Suppliers Ltd. ",
@@ -2171,7 +2171,7 @@
    "Manufacturer": "Azuri Technology",
    "Country": "Kenya",
    "Country": "South Sudan",
-   "Country": "Uganda",
+   "Country": "Uganda"
  },
  {
    "Distributor": "MicamaSoley",
@@ -2203,7 +2203,7 @@
    "Manufacturer": "Barefoot Power",
    "Manufacturer": "Omnivoltaic",
    "Country": "Haiti",
-   "Country": "Latin America",
+   "Country": "Latin America"
  },
  {
    "Distributor": "Mobisol Rwanda",
@@ -2232,7 +2232,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Mobisol",
-   "Country": "Rwanda",
+   "Country": "Rwanda"
  },
  {
    "Distributor": "Mobisol Tanzania",
@@ -2261,7 +2261,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Mobisol",
-   "Country": "Tanzania",
+   "Country": "Tanzania"
  },
  {
    "Distributor": "Modex Trading",
@@ -2290,7 +2290,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Zimbabwe",
+   "Country": "Zimbabwe"
  },
  {
    "Distributor": "Mwanawaleza Limited",
@@ -2319,7 +2319,7 @@
    "Address line 1": "Opposite the main bus depot in Salima town.",
    "Address line 2": "Salima, Malawi",
    "Manufacturer": "Fosera",
-   "Country": "Malawi",
+   "Country": "Malawi"
  },
  {
    "Distributor": "Nakumatt",
@@ -2348,7 +2348,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Sunlite Solar",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "NAMERO SOLAR LIGHT CONCEPTS",
@@ -2377,7 +2377,7 @@
    "Address line 1": "",
    "Address line 2": "Somerset west South Africa",
    "Manufacturer": "Fosera",
-   "Country": "South Africa",
+   "Country": "South Africa"
  },
  {
    "Distributor": "OmniVoltaic",
@@ -2429,7 +2429,7 @@
    "Country": "Bolivia",
    "Country": "Argentina",
    "Country": "Peru",
-   "Country": "Latin America",
+   "Country": "Latin America"
  },
  {
    "Distributor": "Profi-Teknik Co Ltd.",
@@ -2458,7 +2458,7 @@
    "Address line 1": "SV 24,SAMPA VALLEY, OPP.PRUDENTIAL BANK(WEIJA BRANCH), Winneba Road, PO Box 2495",
    "Address line 2": "Accra, Ghana,",
    "Manufacturer": "Fosera",
-   "Country": "Ghana",
+   "Country": "Ghana"
  },
  {
    "Distributor": "Puntocom LTD",
@@ -2487,7 +2487,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Futura Sun",
-   "Country": "Nigeria",
+   "Country": "Nigeria"
  },
  {
    "Distributor": "Restio Energy",
@@ -2522,7 +2522,7 @@
    "Country": "South Africa",
    "Country": "Lesotho",
    "Country": "Swaziland",
-   "Country": "Namibia",
+   "Country": "Namibia"
  },
  {
    "Distributor": "S3C",
@@ -2554,7 +2554,7 @@
    "Country": "Uganda",
    "Country": "Ethiopia",
    "Country": "Tanzania",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Shared Value Africa",
@@ -2583,7 +2583,7 @@
    "Address line 1": "6 Tukuluho Rd.",
    "Address line 2": "Longacres, Lusaka, Zambia",
    "Manufacturer": "Fosera",
-   "Country": "Zambia",
+   "Country": "Zambia"
  },
  {
    "Distributor": "Shared Value Africa",
@@ -2612,7 +2612,7 @@
    "Address line 1": "6 Tukuluho Rd.",
    "Address line 2": "Longacres, Lusaka, Zambia",
    "Manufacturer": "Fosera",
-   "Country": "Zambia",
+   "Country": "Zambia"
  },
  {
    "Distributor": "SJEDI Green Energy",
@@ -2641,7 +2641,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Fosera",
-   "Country": "Liberia",
+   "Country": "Liberia"
  },
  {
    "Distributor": "Skynotch Energy Africa",
@@ -2670,7 +2670,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Omnivoltaic",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Smallsolutions Technology Consultants",
@@ -2700,7 +2700,7 @@
    "Address line 2": "Kampala, Uganda",
    "Manufacturer": "Fosera",
    "Country": "Uganda",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Smart Energy Services",
@@ -2731,7 +2731,7 @@
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "d.light Design",
    "Manufacturer": "Little Sun",
-   "Country": "South Africa",
+   "Country": "South Africa"
  },
  {
    "Distributor": "SNV Niger",
@@ -2760,7 +2760,7 @@
    "Address line 1": "Avenue des Zarmakoye, BP 10110",
    "Address line 2": "Niger",
    "Manufacturer": "Fosera",
-   "Country": "Niger",
+   "Country": "Niger"
  },
  {
    "Distributor": "solar era",
@@ -2789,7 +2789,7 @@
    "Address line 1": "3f Berol House25 Ashley Road",
    "Address line 2": "N17 9LJ London, Great Britain",
    "Manufacturer": "Fosera",
-   "Country": "United Kingdom",
+   "Country": "United Kingdom"
  },
  {
    "Distributor": "solar era",
@@ -2818,7 +2818,7 @@
    "Address line 1": "3f Berol House25 Ashley Road",
    "Address line 2": "N17 9LJ London, Great Britain",
    "Manufacturer": "Fosera",
-   "Country": "United Kingdom",
+   "Country": "United Kingdom"
  },
  {
    "Distributor": "Solar Era Sierra Leone",
@@ -2847,7 +2847,7 @@
    "Address line 1": "16 Adelaide Street",
    "Address line 2": "Freetown, Sierra Leone",
    "Manufacturer": "Fosera",
-   "Country": "Sierra Leone",
+   "Country": "Sierra Leone"
  },
  {
    "Distributor": "Solar Sister",
@@ -2883,7 +2883,7 @@
    "Country": "Tanzania",
    "Country": "Nigeria",
    "Country": "South Sudan",
-   "Country": "Rwanda",
+   "Country": "Rwanda"
  },
  {
    "Distributor": "Solar Solutions PNG Ltd",
@@ -2912,7 +2912,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Barefoot Power",
-   "Country": "Papua New Guinea",
+   "Country": "Papua New Guinea"
  },
  {
    "Distributor": "Solar Village Limited",
@@ -2941,7 +2941,7 @@
    "Address line 1": "Mine Plant plot 5195",
    "Address line 2": "Kabwe, Zambia",
    "Manufacturer": "Fosera",
-   "Country": "Zambia",
+   "Country": "Zambia"
  },
  {
    "Distributor": "Solar Works!",
@@ -2980,7 +2980,7 @@
    "Country": "Tanzania",
    "Country": "Liberia",
    "Country": "Cameroon",
-   "Country": "Ethiopia",
+   "Country": "Ethiopia"
  },
  {
    "Distributor": "Solar23 Development PLC",
@@ -3009,7 +3009,7 @@
    "Address line 1": "Nefas Silk Lafto Sub City, Kebele 06 - House No. 1823, P.O. Box 22572/1000 Addis Ababa",
    "Address line 2": "Ethiopia",
    "Manufacturer": "Fosera",
-   "Country": "Ethiopia",
+   "Country": "Ethiopia"
  },
  {
    "Distributor": "SolarAge Namibia",
@@ -3038,7 +3038,7 @@
    "Address line 1": "P.O. Box 9987",
    "Address line 2": "Windhoek, Namibia",
    "Manufacturer": "Fosera",
-   "Country": "Namibia",
+   "Country": "Namibia"
  },
  {
    "Distributor": "Solataa Ltd",
@@ -3068,7 +3068,7 @@
    "Address line 2": "",
    "Manufacturer": "Little Sun",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Solited International",
@@ -3097,7 +3097,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Off-Grid Solutions",
-   "Country": "Zambia",
+   "Country": "Zambia"
  },
  {
    "Distributor": "Sollatek Mombasa Head Office",
@@ -3127,7 +3127,7 @@
    "Address line 2": "",
    "Manufacturer": "d.light Design",
    "Manufacturer": "Niwa",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Sollatek Nairobi",
@@ -3156,7 +3156,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Manufacturer": "Niwa",
+   "Manufacturer": "Niwa"
  },
  {
    "Distributor": "Solubrite Nicaragua",
@@ -3188,7 +3188,7 @@
    "Manufacturer": "Fosera",
    "Manufacturer": "Greenlight Planet",
    "Country": "Nicaragua",
-   "Country": "Latin America",
+   "Country": "Latin America"
  },
  {
    "Distributor": "Solubrite Panama",
@@ -3220,7 +3220,7 @@
    "Manufacturer": "Fosera",
    "Manufacturer": "Greenlight Planet",
    "Country": "Panama",
-   "Country": "Latin America",
+   "Country": "Latin America"
  },
  {
    "Distributor": "SonnenPlus GmbH",
@@ -3249,7 +3249,7 @@
    "Address line 1": "",
    "Address line 2": "Pakistan",
    "Manufacturer": "Fosera",
-   "Country": "Pakistan",
+   "Country": "Pakistan"
  },
  {
    "Distributor": "SonnenPlus Pakistan (PVT) LTD",
@@ -3278,7 +3278,7 @@
    "Address line 1": "170-R-II, Phase II, DHA, Lahore Cantt.",
    "Address line 2": "Lahore, Pakistan",
    "Manufacturer": "Fosera",
-   "Country": "Pakistan",
+   "Country": "Pakistan"
  },
  {
    "Distributor": "SOSAI ",
@@ -3308,7 +3308,7 @@
    "Address line 2": "",
    "Manufacturer": "Off-Grid Solutions",
    "Manufacturer": "Little Sun",
-   "Country": "Nigeria",
+   "Country": "Nigeria"
  },
  {
    "Distributor": "STM Solar Technologies",
@@ -3337,7 +3337,7 @@
    "Address line 1": "Jomo Kenyatta Street  ",
    "Address line 2": "Hailegebriel Building 2nd floor,",
    "Manufacturer": "Niwa",
-   "Country": "Ethiopia",
+   "Country": "Ethiopia"
  },
  {
    "Distributor": "Suka Solar Energy",
@@ -3366,7 +3366,7 @@
    "Address line 1": "c/o TRANSECOR 27 Rue Bx Ave Birago DIOP",
    "Address line 2": "BP. 21811 Dakar, Senegal",
    "Manufacturer": "Fosera",
-   "Country": "Senegal",
+   "Country": "Senegal"
  },
  {
    "Distributor": "Sun Power Africa",
@@ -3398,7 +3398,7 @@
    "Manufacturer": "Barefoot Power",
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Trony Solar",
-   "Country": "Zambia",
+   "Country": "Zambia"
  },
  {
    "Distributor": "Sunbeam Madagascar sarl",
@@ -3427,7 +3427,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Off-Grid Solutions",
-   "Country": "Madagascar",
+   "Country": "Madagascar"
  },
  {
    "Distributor": "SunFire Solutions ",
@@ -3457,7 +3457,7 @@
    "Address line 2": "",
    "Manufacturer": "Little Sun",
    "Manufacturer": "d.light Design",
-   "Country": "South Africa",
+   "Country": "South Africa"
  },
  {
    "Distributor": "Sungrid Group South ",
@@ -3486,7 +3486,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Off-Grid Solutions",
-   "Country": "South Africa",
+   "Country": "South Africa"
  },
  {
    "Distributor": "Sunny Money Head Office",
@@ -3518,7 +3518,7 @@
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Barefoot Power",
    "Manufacturer": "Omnivoltaic",
-   "Manufacturer": "Sunlite Solar",
+   "Manufacturer": "Sunlite Solar"
  },
  {
    "Distributor": "Sunny Money Kenya",
@@ -3550,7 +3550,7 @@
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Barefoot Power",
    "Manufacturer": "Sunlite Solar",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Sunny Money Malawi",
@@ -3581,7 +3581,7 @@
    "Manufacturer": "d.light Design",
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Omnivoltaic",
-   "Country": "Malawi",
+   "Country": "Malawi"
  },
  {
    "Distributor": "Sunny Money Malawi (2)",
@@ -3610,7 +3610,7 @@
    "Address line 1": "Sunbird Mzuzu Hotel Complex (office 12), Mzuzu",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Manufacturer": "Greenlight Planet",
+   "Manufacturer": "Greenlight Planet"
  },
  {
    "Distributor": "Sunny Money Tanzania",
@@ -3640,7 +3640,7 @@
    "Address line 2": "Dar-es-Salaam, Tanzania",
    "Manufacturer": "d.light Design",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Tanzania",
+   "Country": "Tanzania"
  },
  {
    "Distributor": "Sunny Money Uganda",
@@ -3671,7 +3671,7 @@
    "Manufacturer": "d.light Design",
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Barefoot Power",
-   "Country": "Uganda",
+   "Country": "Uganda"
  },
  {
    "Distributor": "Sunny Money Zambia",
@@ -3702,7 +3702,7 @@
    "Manufacturer": "d.light Design",
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Omnivoltaic",
-   "Country": "Zambia",
+   "Country": "Zambia"
  },
  {
    "Distributor": "TOTAL Awango Angola",
@@ -3730,7 +3730,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Niwa",
-   "Country": "Angola",
+   "Country": "Angola"
  },
  {
    "Distributor": "TOTAL Awango Argentina",
@@ -3757,7 +3757,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Country": "Argentina",
+   "Country": "Argentina"
  },
  {
    "Distributor": "TOTAL Awango Bangladesh",
@@ -3785,7 +3785,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Bangladesh",
+   "Country": "Bangladesh"
  },
  {
    "Distributor": "TOTAL Awango Botswana",
@@ -3813,7 +3813,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Botswana",
+   "Country": "Botswana"
  },
  {
    "Distributor": "TOTAL Awango Burkina Faso",
@@ -3843,7 +3843,7 @@
    "Address line 2": "",
    "Manufacturer": "d.light Design",
    "Manufacturer": "Niwa",
-   "Country": "Burkina Faso",
+   "Country": "Burkina Faso"
  },
  {
    "Distributor": "TOTAL Awango Cambodia",
@@ -3871,7 +3871,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Cambodia",
+   "Country": "Cambodia"
  },
  {
    "Distributor": "TOTAL Awango Cameroon",
@@ -3901,7 +3901,7 @@
    "Address line 2": "",
    "Manufacturer": "d.light Design",
    "Manufacturer": "Niwa",
-   "Country": "Cameroon",
+   "Country": "Cameroon"
  },
  {
    "Distributor": "TOTAL Awango Chad",
@@ -3928,7 +3928,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Country": "Chad",
+   "Country": "Chad"
  },
  {
    "Distributor": "TOTAL Awango Congo",
@@ -3956,7 +3956,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Republic of Congo",
+   "Country": "Republic of Congo"
  },
  {
    "Distributor": "TOTAL Awango Cote d'Ivore",
@@ -3984,7 +3984,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "C�te d�Ivoire",
+   "Country": "C�te d�Ivoire"
  },
  {
    "Distributor": "TOTAL Awango Dominican Republic",
@@ -4011,7 +4011,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Country": "Dominican Republic",
+   "Country": "Dominican Republic"
  },
  {
    "Distributor": "TOTAL Awango DRC",
@@ -4039,7 +4039,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Democratic Republic of Congo",
+   "Country": "Democratic Republic of Congo"
  },
  {
    "Distributor": "TOTAL Awango Equatorial Guinea",
@@ -4067,7 +4067,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Equatorial Guinea",
+   "Country": "Equatorial Guinea"
  },
  {
    "Distributor": "TOTAL Awango Eritrea",
@@ -4094,7 +4094,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Country": "Eritrea",
+   "Country": "Eritrea"
  },
  {
    "Distributor": "TOTAL Awango Ethiopia",
@@ -4122,7 +4122,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Niwa",
-   "Country": "Ethiopia",
+   "Country": "Ethiopia"
  },
  {
    "Distributor": "TOTAL Awango Gabon",
@@ -4150,7 +4150,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Gabon",
+   "Country": "Gabon"
  },
  {
    "Distributor": "TOTAL Awango Ghana",
@@ -4178,7 +4178,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Niwa",
-   "Country": "Ghana",
+   "Country": "Ghana"
  },
  {
    "Distributor": "TOTAL Awango Guinea",
@@ -4206,7 +4206,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Guinea",
+   "Country": "Guinea"
  },
  {
    "Distributor": "TOTAL Awango Haiti",
@@ -4234,7 +4234,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Haiti",
+   "Country": "Haiti"
  },
  {
    "Distributor": "TOTAL Awango India",
@@ -4262,7 +4262,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "India",
+   "Country": "India"
  },
  {
    "Distributor": "TOTAL Awango Indonesia",
@@ -4290,7 +4290,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Indonesia",
+   "Country": "Indonesia"
  },
  {
    "Distributor": "TOTAL Awango Kenya",
@@ -4319,7 +4319,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "TOTAL Awango Lesotho",
@@ -4348,7 +4348,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Lesotho",
+   "Country": "Lesotho"
  },
  {
    "Distributor": "TOTAL Awango Liberia",
@@ -4376,7 +4376,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Liberia",
+   "Country": "Liberia"
  },
  {
    "Distributor": "TOTAL Awango Malawi",
@@ -4404,7 +4404,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Malawi",
+   "Country": "Malawi"
  },
  {
    "Distributor": "TOTAL Awango Mali",
@@ -4432,7 +4432,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Mali",
+   "Country": "Mali"
  },
  {
    "Distributor": "TOTAL Awango Mauritania",
@@ -4459,7 +4459,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Country": "Mauritania",
+   "Country": "Mauritania"
  },
  {
    "Distributor": "TOTAL Awango Mexico",
@@ -4486,7 +4486,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Country": "Mexico",
+   "Country": "Mexico"
  },
  {
    "Distributor": "TOTAL Awango Morocco",
@@ -4514,7 +4514,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Morocco",
+   "Country": "Morocco"
  },
  {
    "Distributor": "TOTAL Awango Mozambique",
@@ -4542,7 +4542,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Niwa",
-   "Country": "Mozambique",
+   "Country": "Mozambique"
  },
  {
    "Distributor": "TOTAL Awango Myanmar",
@@ -4570,7 +4570,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Myanmar [Burma]",
+   "Country": "Myanmar [Burma]"
  },
  {
    "Distributor": "TOTAL Awango Namibia",
@@ -4598,7 +4598,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Namibia",
+   "Country": "Namibia"
  },
  {
    "Distributor": "TOTAL Awango Niger ",
@@ -4626,7 +4626,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Niger",
+   "Country": "Niger"
  },
  {
    "Distributor": "TOTAL Awango Nigeria",
@@ -4655,7 +4655,7 @@
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Schneider Electric",
-   "Country": "Nigeria",
+   "Country": "Nigeria"
  },
  {
    "Distributor": "TOTAL Awango Philippines",
@@ -4682,7 +4682,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Country": "Philippines",
+   "Country": "Philippines"
  },
  {
    "Distributor": "TOTAL Awango Senegal",
@@ -4711,7 +4711,7 @@
    "Address line 2": "",
    "Manufacturer": "d.light Design",
    "Manufacturer": "Niwa",
-   "Country": "Senegal",
+   "Country": "Senegal"
  },
  {
    "Distributor": "TOTAL Awango Sierra Leone",
@@ -4739,7 +4739,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Sierra Leone",
+   "Country": "Sierra Leone"
  },
  {
    "Distributor": "TOTAL Awango South Africa",
@@ -4768,7 +4768,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "South Africa",
+   "Country": "South Africa"
  },
  {
    "Distributor": "TOTAL Awango Swaziland",
@@ -4796,7 +4796,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Swaziland",
+   "Country": "Swaziland"
  },
  {
    "Distributor": "TOTAL Awango Tanzania",
@@ -4825,7 +4825,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Tanzania",
+   "Country": "Tanzania"
  },
  {
    "Distributor": "TOTAL Awango Togo",
@@ -4853,7 +4853,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Togo",
+   "Country": "Togo"
  },
  {
    "Distributor": "TOTAL Awango Uganda",
@@ -4882,7 +4882,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Uganda",
+   "Country": "Uganda"
  },
  {
    "Distributor": "TOTAL Awango Zambia",
@@ -4910,7 +4910,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
-   "Country": "Zambia",
+   "Country": "Zambia"
  },
  {
    "Distributor": "TOTAL Awango Zimbabwe",
@@ -4938,7 +4938,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "d.light Design",
-   "Country": "Zimbabwe",
+   "Country": "Zimbabwe"
  },
  {
    "Distributor": "Trusun Ltd. ",
@@ -4967,7 +4967,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Schneider Electric",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "Ubbink East Africa Ltd",
@@ -4996,7 +4996,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Fosera",
-   "Country": "Kenya",
+   "Country": "Kenya"
  },
  {
    "Distributor": "VITALITE",
@@ -5026,7 +5026,7 @@
    "Address line 2": "",
    "Manufacturer": "Greenlight Planet",
    "Manufacturer": "Fosera",
-   "Country": "Zambia",
+   "Country": "Zambia"
  },
  {
    "Distributor": "Wata Na Nuru Shop",
@@ -5054,7 +5054,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Manufacturer": "Barefoot Power",
+   "Manufacturer": "Barefoot Power"
  },
  {
    "Distributor": "Wata Na Nuru Shop",
@@ -5082,7 +5082,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Manufacturer": "Barefoot Power",
+   "Manufacturer": "Barefoot Power"
  },
  {
    "Distributor": "Wata Na Nuru Shop",
@@ -5110,7 +5110,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Manufacturer": "Barefoot Power",
+   "Manufacturer": "Barefoot Power"
  },
  {
    "Distributor": "Wata Na Nuru Shop",
@@ -5138,7 +5138,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Manufacturer": "Barefoot Power",
+   "Manufacturer": "Barefoot Power"
  },
  {
    "Distributor": "Wata Na Nuru Shop",
@@ -5166,7 +5166,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Manufacturer": "Barefoot Power",
+   "Manufacturer": "Barefoot Power"
  },
  {
    "Distributor": "Wata Na Nuru Shop",
@@ -5194,7 +5194,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Manufacturer": "Barefoot Power",
+   "Manufacturer": "Barefoot Power"
  },
  {
    "Distributor": "Wata Na Nuru Shop",
@@ -5222,7 +5222,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Manufacturer": "Barefoot Power",
+   "Manufacturer": "Barefoot Power"
  },
  {
    "Distributor": "Wata Na Nuru Shop",
@@ -5250,7 +5250,7 @@
    "Online purchase options": "",
    "Address line 1": "",
    "Address line 2": "",
-   "Manufacturer": "Barefoot Power",
+   "Manufacturer": "Barefoot Power"
  },
  {
    "Distributor": "Watu Na Nuru National Office",
@@ -5279,7 +5279,7 @@
    "Address line 1": "",
    "Address line 2": "",
    "Manufacturer": "Barefoot Power",
-   "Country": "Tanzania",
+   "Country": "Tanzania"
  },
  {
    "Distributor": "YANDALUX Cameroun SARL",
@@ -5308,7 +5308,7 @@
    "Address line 1": "Mont�e Sonel Nlongkak (Bastos), Postfach: BP: 16281",
    "Address line 2": "Yaound�, Cameroun",
    "Manufacturer": "Fosera",
-   "Country": "Cameroon",
+   "Country": "Cameroon"
  },
  {
    "Distributor": "YANDALUX Guin�e SARL",
@@ -5337,7 +5337,7 @@
    "Address line 1": "Quartier Taouya - Commune de Ratoma, Postfach: BP: 708",
    "Address line 2": "Conakry, Guin�e",
    "Manufacturer": "Fosera",
-   "Country": "Guinea",
+   "Country": "Guinea"
  },
  {
    "Distributor": "YANDALUX Mali SARL",
@@ -5366,7 +5366,7 @@
    "Address line 1": "Titibougou, Route de Koulikoro Postfach: BP: E2680",
    "Address line 2": "Bamako, Mali",
    "Manufacturer": "Fosera",
-   "Country": "Mali",
+   "Country": "Mali"
  },
  {
    "Distributor": "Zularistan Ltd.",
@@ -5395,6 +5395,6 @@
    "Address line 1": "Zularistan Limited House No. 08 2nd Road of Chahar-e-Ansari Close to Central Hotel",
    "Address line 2": "Kabul Shar-e Naw, Afghanistan",
    "Manufacturer": "Fosera",
-   "Country": "Afghanistan",
+   "Country": "Afghanistan"
  }
 ]
