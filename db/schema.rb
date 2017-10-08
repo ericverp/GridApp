@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171008083641) do
+ActiveRecord::Schema.define(version: 20171008085919) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -65,7 +65,9 @@ ActiveRecord::Schema.define(version: 20171008083641) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.bigint "country_id"
+    t.bigint "manufacturer_id"
     t.index ["country_id"], name: "index_distributors_on_country_id"
+    t.index ["manufacturer_id"], name: "index_distributors_on_manufacturer_id"
   end
 
   create_table "distributors_lighting_products", id: false, force: :cascade do |t|
@@ -131,6 +133,7 @@ ActiveRecord::Schema.define(version: 20171008083641) do
   end
 
   add_foreign_key "distributors", "countries"
+  add_foreign_key "distributors", "manufacturers"
   add_foreign_key "survey_results", "lighting_products", column: "lighting_products_id"
   add_foreign_key "survey_results", "respondents"
 end

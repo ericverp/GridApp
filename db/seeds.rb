@@ -10,9 +10,9 @@ AdminUser.create!(email: 'admin@example.com', password: 'password', password_con
 
 country = Country.create!(name: "Switzerland") if Rails.env.development?
 
-distributor = Distributor.create!(name: "First Distributor",email: "testemail@email.com", address: "39 rue de la oiseau, schweiz", telephone: 0123123141, country: country) if Rails.env.development?
 
 manufacturer = Manufacturer.create!(name: "Lighting Products") if Rails.env.development?
+distributor = Distributor.create!(name: "First Distributor",email: "testemail@email.com", address: "39 rue de la oiseau, schweiz", telephone: 0123123141, country: country, manufacturer: manufacturer) if Rails.env.development?
 product = LightingProduct.create!(name: "First Light",mobile_charging: true, price: 1234.2, num_of_lights:4, num_12v:3, num_5v: 1, daily_output: 13.45, runtime: 12.0, battery_capacity: 8.2,countries: [country], manufacturer: manufacturer, distributors: [distributor]) if Rails.env.development?
 
 respondent = Respondent.create(contact_name: "dummy",phone: "123123213") if Rails.env.development?
