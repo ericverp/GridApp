@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171007163712) do
+ActiveRecord::Schema.define(version: 20171008083641) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -64,11 +64,18 @@ ActiveRecord::Schema.define(version: 20171007163712) do
     t.string "telephone"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.bigint "country_id"
+    t.index ["country_id"], name: "index_distributors_on_country_id"
   end
 
   create_table "distributors_lighting_products", id: false, force: :cascade do |t|
     t.bigint "lighting_product_id", null: false
     t.bigint "distributor_id", null: false
+  end
+
+  create_table "distributors_manufacturers", id: false, force: :cascade do |t|
+    t.bigint "distributor_id", null: false
+    t.bigint "manufacturer_id", null: false
   end
 
   create_table "lighting_products", force: :cascade do |t|
@@ -123,6 +130,7 @@ ActiveRecord::Schema.define(version: 20171007163712) do
     t.index ["respondent_id"], name: "index_survey_results_on_respondent_id"
   end
 
+  add_foreign_key "distributors", "countries"
   add_foreign_key "survey_results", "lighting_products", column: "lighting_products_id"
   add_foreign_key "survey_results", "respondents"
 end

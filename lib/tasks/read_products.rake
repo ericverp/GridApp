@@ -31,6 +31,26 @@ namespace :products do
 			require 'json'
       #require ''
 
+			puts 'Start Ingest of Countries data'
+
+			ingest_locations = File.new(File.join(Dir.getwd,'lib','tasks','countries.json'),'r')
+
+			countries =  JSON.parse(ingest_locations.read())
+			puts 'Mapping Events'
+			mapped_countries = countries.map do|item|
+				country = {
+						:name => item['Country'],
+
+				}
+			end
+
+
+			mapped_countries.each do|country|
+				Country.create!(country)
+			end
+			puts "Countries Mapped"
+
+
 			puts 'Start Ingest of Manufacturers data'
 
 			ingest_locations = File.new(File.join(Dir.getwd,'lib','tasks','manufacturers.json'),'r')
@@ -61,6 +81,7 @@ namespace :products do
 					:email => item['Primary Email'],
 					:address => item['Address line 1'] + ', ' + item['Address line 2'],
 					:telephone => item['Primary Phone'],
+					:country => Country.where(:name => item['Country']).first_or_create,
 
 				}
 			end
@@ -71,24 +92,23 @@ namespace :products do
 			puts "Distributors Mapped"
 
 
-			puts 'Start Ingest of Countries data'
+			puts 'Start Ingest of DM data'
+			ingest_locations = File.new(File.join(Dir.getwd,'lib','tasks','DMtable.json'),'r')
 
-			ingest_locations = File.new(File.join(Dir.getwd,'lib','tasks','countries.json'),'r')
+			#DMcouples =  JSON.parse(ingest_locations.read())
+			#puts 'Mapping Events'
+			#mapped_DMcouples = DMcouples.map do|item|
+			#	distributor = {
+			#			:distributor => item['Distributor'],
+			#			:manifacturer => item['Manifacturer']
+			#	}
+			#end
 
-			countries =  JSON.parse(ingest_locations.read())
-			puts 'Mapping Events'
-			mapped_countries = countries.map do|item|
-				country = {
-						:name => item['Country'],
+			#mapped_DMcouples.each do|DMcouple|
+			#	Distributor.create!(DMcouple)
+			#end
+			#puts "Distributors Mapped"
 
-				}
-			end
-
-
-    	mapped_countries.each do|country|
-				Country.create!(country)
-			end
-			puts "Countries Mapped"
 
 
 	  	puts 'Start Ingest of Products data'
